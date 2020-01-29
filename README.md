@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jan 29 2020 18:31:44 GMT+0000 (Coordinated Universal Time) スマホからでもいけたー
+
 - Wed Jan 29 2020 17:58:07 GMT+0000 (Coordinated Universal Time) サーバもコンピュータ（戒め）
 
 - Wed Jan 29 2020 17:30:34 GMT+0000 (Coordinated Universal Time) 今回はmaterial-uiを使ってみる．
