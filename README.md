@@ -1,5 +1,9 @@
 # nil
-Now, I'm learning.
+Now, I'm learnin
+- Wed Jan 29 2020 17:30:34 GMT+0000 (Coordinated Universal Time) 今回はmaterial-uiを使ってみる．
+
+- Wed Jan 29 2020 17:27:12 GMT+0000 (Coordinated Universal Time) client側もきちんとつくるぞい！
+g.
 - Wed Jan 29 2020 16:31:01 GMT+0000 (Coordinated Universal Time) というわけで1日半ハマり続けたサーバ側のデプロイ完了．．！
 
 - Wed Jan 29 2020 16:28:42 GMT+0000 (Coordinated Universal Time) マネクラ側でgithubとやりとりするためのsshキーが設定されていなかったので作成して設定した．
