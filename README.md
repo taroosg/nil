@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Jan 30 2020 15:46:46 GMT+0000 (Coordinated Universal Time) Promise関連は説明難しい．できるだけシンプルなものを何回かやってみるのが良さそう．
+
 - Wed Jan 29 2020 23:15:22 GMT+0000 (Coordinated Universal Time) async awaitを使ったからといってPromiseがなくなるわけではないし，まずPromise理解するのは大事．
 
 - Wed Jan 29 2020 20:07:25 GMT+0000 (Coordinated Universal Time) 最初から複数のcssフレームワークを混ぜてつくるとよくわからなくなるので，material-uiで一通りつくってから調整したほうが良さそうであるな．
