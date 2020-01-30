@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Jan 30 2020 18:16:04 GMT+0000 (Coordinated Universal Time) material-ui，ダークモード仕様も簡単にできて良き．
+
 - Thu Jan 30 2020 17:14:26 GMT+0000 (Coordinated Universal Time) material-uiでtheme適用するとき<CssBaseline />書かないと適用されない罠．
 
 - Thu Jan 30 2020 15:46:46 GMT+0000 (Coordinated Universal Time) Promise関連は説明難しい．できるだけシンプルなものを何回かやってみるのが良さそう．
