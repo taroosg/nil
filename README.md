@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Jan 30 2020 19:07:38 GMT+0000 (Coordinated Universal Time) node.jsのfs.write()系統ってタグとか入ってたら弾いてくれるのかな．．？
+
 - Thu Jan 30 2020 18:22:45 GMT+0000 (Coordinated Universal Time) とりあえず必要そうなmaterial-uiは適用したので，あとは気になったタイミングでいじることにしよう．
 
 - Thu Jan 30 2020 18:16:04 GMT+0000 (Coordinated Universal Time) material-ui，ダークモード仕様も簡単にできて良き．
