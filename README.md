@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 18:21:13 GMT+0000 (Coordinated Universal Time) githubの草のsvgを取得することに成功した👾
+
 - Fri Jan 31 2020 18:13:21 GMT+0000 (Coordinated Universal Time) 正規表現で「.」だと改行が取れないから「[\s\S]」にしたら取れた．
 
 - Fri Jan 31 2020 15:46:37 GMT+0000 (Coordinated Universal Time) requestだとうまくいかないのでsync-requestを使う必要があるようだ．
