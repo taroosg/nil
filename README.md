@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 20:29:11 GMT+0000 (Coordinated Universal Time) 送信してからpush完了まではちょっと時間がかかる模様．
+
 - Fri Jan 31 2020 20:27:14 GMT+0000 (Coordinated Universal Time) 草数の取得もOK！
 
 - Fri Jan 31 2020 19:34:35 GMT+0000 (Coordinated Universal Time) split()やらslice()やら使いまくってsvgから日付とcontributionの配列をつくれた．
