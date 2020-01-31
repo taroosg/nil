@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 23:03:21 GMT+0000 (Coordinated Universal Time) material-ui使ったらmodalも楽々だった．ただModalコンポーネントの中身を空にすると仕事してくれない．
+
 - Fri Jan 31 2020 21:50:04 GMT+0000 (Coordinated Universal Time) 結局配列だった．
 
 - Fri Jan 31 2020 20:42:10 GMT+0000 (Coordinated Universal Time) 動作はいい感じなので見た目は次回．
