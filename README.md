@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 19:18:56 GMT+0000 (Coordinated Universal Time) svgで返すよりdata-countとdata-dateで配列にして返すほうが良いかな．．？
+
 - Fri Jan 31 2020 19:10:08 GMT+0000 (Coordinated Universal Time) アプリ側で草の表示はできたがsvgだからうまい配置のしかたがわからぬ．．．
 
 - Fri Jan 31 2020 18:21:13 GMT+0000 (Coordinated Universal Time) githubの草のsvgを取得することに成功した👾
