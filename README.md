@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 20:27:14 GMT+0000 (Coordinated Universal Time) 草数の取得もOK！
+
 - Fri Jan 31 2020 19:34:35 GMT+0000 (Coordinated Universal Time) split()やらslice()やら使いまくってsvgから日付とcontributionの配列をつくれた．
 
 - Fri Jan 31 2020 19:18:56 GMT+0000 (Coordinated Universal Time) svgで返すよりdata-countとdata-dateで配列にして返すほうが良いかな．．？
