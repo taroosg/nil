@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 18:13:21 GMT+0000 (Coordinated Universal Time) 正規表現で「.」だと改行が取れないから「[\s\S]」にしたら取れた．
+
 - Fri Jan 31 2020 15:46:37 GMT+0000 (Coordinated Universal Time) requestだとうまくいかないのでsync-requestを使う必要があるようだ．
 
 - Fri Jan 31 2020 12:42:41 GMT+0000 (Coordinated Universal Time) promiseの仕組みをある程度把握できると，デフォでpromiseオブジェクトを返してくれる関数（axios系とかfirebase系とか）をかっこいい感じに使える．
