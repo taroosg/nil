@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 10:43:13 GMT+0000 (Coordinated Universal Time) とりあえずつくったものは誰かに見せるスタイル．
+
 - Thu Jan 30 2020 21:55:07 GMT+0000 (Coordinated Universal Time) しんどいときは雑でいいので項目を全部埋めておいて，細かい部分は明日の自分に任せるのが吉．
 
 - Thu Jan 30 2020 20:24:49 GMT+0000 (Coordinated Universal Time) material-uiのprimary色はparetteのところでprimary: { main: '#f44336' }とやれば好きな色を設定できた．
