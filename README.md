@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jan 31 2020 21:50:04 GMT+0000 (Coordinated Universal Time) 結局配列だった．
+
 - Fri Jan 31 2020 20:42:10 GMT+0000 (Coordinated Universal Time) 動作はいい感じなので見た目は次回．
 
 - Fri Jan 31 2020 20:29:11 GMT+0000 (Coordinated Universal Time) 送信してからpush完了まではちょっと時間がかかる模様．
