@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 01 2020 17:44:58 GMT+0000 (Coordinated Universal Time) テーブルつくるときは頭の中だけでやらずにエクセルやスプレッドシートで実際に見える状態にするとつくりやすい．
+
 - Sat Feb 01 2020 14:17:02 GMT+0000 (Coordinated Universal Time) つくったものを誰かに話すのが大事！
 
 - Fri Jan 31 2020 23:03:21 GMT+0000 (Coordinated Universal Time) material-ui使ったらmodalも楽々だった．ただModalコンポーネントの中身を空にすると仕事してくれない．
