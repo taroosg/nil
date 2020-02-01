@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 01 2020 14:17:02 GMT+0000 (Coordinated Universal Time) つくったものを誰かに話すのが大事！
+
 - Fri Jan 31 2020 23:03:21 GMT+0000 (Coordinated Universal Time) material-ui使ったらmodalも楽々だった．ただModalコンポーネントの中身を空にすると仕事してくれない．
 
 - Fri Jan 31 2020 21:50:04 GMT+0000 (Coordinated Universal Time) 結局配列だった．
