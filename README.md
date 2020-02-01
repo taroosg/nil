@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 01 2020 21:49:44 GMT+0000 (Coordinated Universal Time) 直積型はAND，直和型はOR．直和型のメリットは表現できる型を複数持てる点．
+
 - Sat Feb 01 2020 20:08:30 GMT+0000 (Coordinated Universal Time) ファイル名をコピペして作るときは半角スペースの混入に注意する必要がある．
 
 - Sat Feb 01 2020 17:44:58 GMT+0000 (Coordinated Universal Time) テーブルつくるときは頭の中だけでやらずにエクセルやスプレッドシートで実際に見える状態にするとつくりやすい．
