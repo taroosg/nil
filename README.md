@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 01 2020 23:15:09 GMT+0000 (Coordinated Universal Time) 水に流せる系のティッシュはポケットに入れておくとすぐ崩壊するのでよろしくないという知見を得た．
+
 - Sat Feb 01 2020 22:46:29 GMT+0000 (Coordinated Universal Time) いくら深く理解していても，日本語の説明がわかりづらければ意味がない．．．．専門用語の多用には注意したいところ．
 
 - Sat Feb 01 2020 21:49:44 GMT+0000 (Coordinated Universal Time) 直積型はAND，直和型はOR．直和型のメリットは表現できる型を複数持てる点．
