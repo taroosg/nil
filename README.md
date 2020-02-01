@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 01 2020 20:08:30 GMT+0000 (Coordinated Universal Time) ファイル名をコピペして作るときは半角スペースの混入に注意する必要がある．
+
 - Sat Feb 01 2020 17:44:58 GMT+0000 (Coordinated Universal Time) テーブルつくるときは頭の中だけでやらずにエクセルやスプレッドシートで実際に見える状態にするとつくりやすい．
 
 - Sat Feb 01 2020 14:17:02 GMT+0000 (Coordinated Universal Time) つくったものを誰かに話すのが大事！
