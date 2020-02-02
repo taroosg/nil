@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 02 2020 14:10:43 GMT+0000 (Coordinated Universal Time) なお第2引数になにか記述した場合でも，初回マウント時には必ずuseEffect内が実行される．
+
 - Sun Feb 02 2020 14:08:18 GMT+0000 (Coordinated Universal Time) useEffect(fn, [param])とした場合，paramに変化がない場合はfnが実行されない．なので，useEffect適宜stateなどを書いておくと，無駄な実行をスキップできて幸せ．
 
 - Sat Feb 01 2020 23:15:09 GMT+0000 (Coordinated Universal Time) 水に流せる系のティッシュはポケットに入れておくとすぐ崩壊するのでよろしくないという知見を得た．
