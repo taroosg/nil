@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 02 2020 18:12:45 GMT+0000 (Coordinated Universal Time) jsのオブジェクトのキーの順番は保証されないので，キーの順番に影響されないように処理を書くほうが良さそう．
+
 - Sun Feb 02 2020 16:20:35 GMT+0000 (Coordinated Universal Time) iOSでPWAが更新されないときはsafariのキャッシュを消去すれば良い．
 
 - Sun Feb 02 2020 14:52:15 GMT+0000 (Coordinated Universal Time) オブジェクト同士の比較はハマるのでしないに越したことはない．
