@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 02 2020 16:20:35 GMT+0000 (Coordinated Universal Time) iOSでPWAが更新されないときはsafariのキャッシュを消去すれば良い．
+
 - Sun Feb 02 2020 14:52:15 GMT+0000 (Coordinated Universal Time) オブジェクト同士の比較はハマるのでしないに越したことはない．
 
 - Sun Feb 02 2020 14:10:43 GMT+0000 (Coordinated Universal Time) なお第2引数になにか記述した場合でも，初回マウント時には必ずuseEffect内が実行される．
