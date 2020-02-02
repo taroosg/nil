@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 02 2020 14:08:18 GMT+0000 (Coordinated Universal Time) useEffect(fn, [param])とした場合，paramに変化がない場合はfnが実行されない．なので，useEffect適宜stateなどを書いておくと，無駄な実行をスキップできて幸せ．
+
 - Sat Feb 01 2020 23:15:09 GMT+0000 (Coordinated Universal Time) 水に流せる系のティッシュはポケットに入れておくとすぐ崩壊するのでよろしくないという知見を得た．
 
 - Sat Feb 01 2020 22:46:29 GMT+0000 (Coordinated Universal Time) いくら深く理解していても，日本語の説明がわかりづらければ意味がない．．．．専門用語の多用には注意したいところ．
