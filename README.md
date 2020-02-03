@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Feb 03 2020 20:12:14 GMT+0000 (Coordinated Universal Time) 同じ関数名を定義するという超凡ミスをかまして数十分をドブに捨てるスタイル．
+
 - Sun Feb 02 2020 18:12:45 GMT+0000 (Coordinated Universal Time) jsのオブジェクトのキーの順番は保証されないので，キーの順番に影響されないように処理を書くほうが良さそう．
 
 - Sun Feb 02 2020 16:20:35 GMT+0000 (Coordinated Universal Time) iOSでPWAが更新されないときはsafariのキャッシュを消去すれば良い．
