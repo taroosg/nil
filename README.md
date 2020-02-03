@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Feb 03 2020 22:46:18 GMT+0000 (Coordinated Universal Time) 調べるときに参考になったwebサイトはブックマークに残しておくと自分の調べた記録になって良い．たとえ後々もう一度見ることがなくても．
+
 - Mon Feb 03 2020 20:12:14 GMT+0000 (Coordinated Universal Time) 同じ関数名を定義するという超凡ミスをかまして数十分をドブに捨てるスタイル．
 
 - Sun Feb 02 2020 18:12:45 GMT+0000 (Coordinated Universal Time) jsのオブジェクトのキーの順番は保証されないので，キーの順番に影響されないように処理を書くほうが良さそう．
