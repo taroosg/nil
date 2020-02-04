@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 04 2020 21:49:27 GMT+0000 (Coordinated Universal Time) チェックボックスのcheckedでtrueかfalseをとりたいときはe.target.checked ? true : falseが手軽で良さそう．
+
 - Tue Feb 04 2020 21:45:20 GMT+0000 (Coordinated Universal Time) labelタグの中にinputタグを入れておくとforしなくて良くて楽．
 
 - Tue Feb 04 2020 20:45:56 GMT+0000 (Coordinated Universal Time) javascriptで数字のゼロ埋めはString.prototype.padStart()でスマートにできそう．
