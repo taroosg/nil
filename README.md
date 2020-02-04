@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 04 2020 16:00:56 GMT+0000 (Coordinated Universal Time) 自分の視座がRPGのようにマップ（と自分）を見下ろす位置にあるかどうか．キャラ（=自分）を客観的に見てレベル上げや装備の強化ができるかどうか．「人生はロールプレイングだ」っていうけどほんとそうだと思ふ．
+
 - Tue Feb 04 2020 15:37:09 GMT+0000 (Coordinated Universal Time) 関数型にもつながるし，lodash.jsを使ってみようかな．
 
 - Mon Feb 03 2020 22:46:18 GMT+0000 (Coordinated Universal Time) 調べるときに参考になったwebサイトはブックマークに残しておくと自分の調べた記録になって良い．たとえ後々もう一度見ることがなくても．
