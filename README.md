@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 04 2020 21:45:20 GMT+0000 (Coordinated Universal Time) labelタグの中にinputタグを入れておくとforしなくて良くて楽．
+
 - Tue Feb 04 2020 20:45:56 GMT+0000 (Coordinated Universal Time) javascriptで数字のゼロ埋めはString.prototype.padStart()でスマートにできそう．
 
 - Tue Feb 04 2020 20:09:05 GMT+0000 (Coordinated Universal Time) データに入れると勝手にdomがいい感じにできてくれるReactとかVueとかのありがたさが身に沁みている．
