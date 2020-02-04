@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 04 2020 15:37:09 GMT+0000 (Coordinated Universal Time) 関数型にもつながるし，lodash.jsを使ってみようかな．
+
 - Mon Feb 03 2020 22:46:18 GMT+0000 (Coordinated Universal Time) 調べるときに参考になったwebサイトはブックマークに残しておくと自分の調べた記録になって良い．たとえ後々もう一度見ることがなくても．
 
 - Mon Feb 03 2020 20:12:14 GMT+0000 (Coordinated Universal Time) 同じ関数名を定義するという超凡ミスをかまして数十分をドブに捨てるスタイル．
