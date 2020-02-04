@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 04 2020 20:45:56 GMT+0000 (Coordinated Universal Time) javascriptで数字のゼロ埋めはString.prototype.padStart()でスマートにできそう．
+
 - Tue Feb 04 2020 20:09:05 GMT+0000 (Coordinated Universal Time) データに入れると勝手にdomがいい感じにできてくれるReactとかVueとかのありがたさが身に沁みている．
 
 - Tue Feb 04 2020 16:32:01 GMT+0000 (Coordinated Universal Time) firebaseとGCPの不要プロジェクトを駆逐した．定期的にこういう作業しておくのも大事．
