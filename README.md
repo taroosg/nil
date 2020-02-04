@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 04 2020 16:16:48 GMT+0000 (Coordinated Universal Time) firebaseのプロジェクト，新しいのをすぐ作れるけど上限がある．しかも課金設定できるのは5つなので，適宜削除しておかないと必要なタイミングで作れなくなる（1敗）
+
 - Tue Feb 04 2020 16:00:56 GMT+0000 (Coordinated Universal Time) 自分の視座がRPGのようにマップ（と自分）を見下ろす位置にあるかどうか．キャラ（=自分）を客観的に見てレベル上げや装備の強化ができるかどうか．「人生はロールプレイングだ」っていうけどほんとそうだと思ふ．
 
 - Tue Feb 04 2020 15:37:09 GMT+0000 (Coordinated Universal Time) 関数型にもつながるし，lodash.jsを使ってみようかな．
