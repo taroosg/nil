@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 05 2020 19:27:57 GMT+0000 (Coordinated Universal Time) 動作確認の項目を実装前に決めておくと良さそう．これがTDDの第一歩か．．！
+
 - Wed Feb 05 2020 16:48:46 GMT+0000 (Coordinated Universal Time) firestoreのデータとろうとしたらcorsでキレられたけど少ししたら収まった．．．とりあえず落ち着いて少し待てばいいらしい．．．
 
 - Wed Feb 05 2020 10:59:03 GMT+0000 (Coordinated Universal Time) スライドじゃなくて文書形式にまとめておいたほうがアウトプットにもなって良いのかもしれぬ．
