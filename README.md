@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 05 2020 22:29:14 GMT+0000 (Coordinated Universal Time) Cloud Firestoreのインデックスはwhereとかorderbyとかする順番に記述しないと動かんという知見を得た．
+
 - Wed Feb 05 2020 21:19:20 GMT+0000 (Coordinated Universal Time) jsで追加要素にイベント効かないのってほぼ必ずハマる．ReactやVueではコンポーネント単位とかで毎回レンダリングし直してるから意識しなくても動作するわけか．
 
 - Wed Feb 05 2020 19:27:57 GMT+0000 (Coordinated Universal Time) 動作確認の項目を実装前に決めておくと良さそう．これがTDDの第一歩か．．！
