@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 05 2020 10:59:03 GMT+0000 (Coordinated Universal Time) スライドじゃなくて文書形式にまとめておいたほうがアウトプットにもなって良いのかもしれぬ．
+
 - Tue Feb 04 2020 21:56:01 GMT+0000 (Coordinated Universal Time) 配列をmapでタグに入れてinnerHTMLするとき，配列のカンマが出るときと出ないときがあるのだがなにが違うのだろうか．．．よくわからんから結局毎回join('')している．
 
 - Tue Feb 04 2020 21:49:27 GMT+0000 (Coordinated Universal Time) チェックボックスのcheckedでtrueかfalseをとりたいときはe.target.checked ? true : falseが手軽で良さそう．
