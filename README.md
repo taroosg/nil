@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 06 2020 18:16:03 GMT+0000 (Coordinated Universal Time) コード調べるときに「同じことやってる」じゃなくて「同じ動きしてる」というのを見つけて取り入れられるかどうかが大事かなと思った．
+
 - Thu Feb 06 2020 13:28:03 GMT+0000 (Coordinated Universal Time) iOSの電卓は0除算するとエラー表示されるという知見を得た．
 
 - Wed Feb 05 2020 22:29:14 GMT+0000 (Coordinated Universal Time) Cloud Firestoreのインデックスはwhereとかorderbyとかする順番に記述しないと動かんという知見を得た．
