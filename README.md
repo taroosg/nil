@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 06 2020 20:55:14 GMT+0000 (Coordinated Universal Time) 発表内容まとめるとき，いつも先にテキストで書いてるけどスライドつくりながらやるのも良さそう．1枚のスライドに対して「言いたいこと1つ」「説明2-3つ」ですすめると構成が練りやすい．気がする．
+
 - Thu Feb 06 2020 19:52:14 GMT+0000 (Coordinated Universal Time) Firebaseのルール，少し前はallow read, write: if auth != null;でいけてたのにいけなくなってたので，allow read, write: if request.auth != null;にしたらいけた．
 
 - Thu Feb 06 2020 19:49:14 GMT+0000 (Coordinated Universal Time) デプロイしてもGithubに上げてもどうせ誰も見ないんだから細かいことは気にせずやっていくスタイル．
