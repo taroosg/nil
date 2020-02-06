@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 06 2020 13:28:03 GMT+0000 (Coordinated Universal Time) iOSの電卓は0除算するとエラー表示されるという知見を得た．
+
 - Wed Feb 05 2020 22:29:14 GMT+0000 (Coordinated Universal Time) Cloud Firestoreのインデックスはwhereとかorderbyとかする順番に記述しないと動かんという知見を得た．
 
 - Wed Feb 05 2020 21:19:20 GMT+0000 (Coordinated Universal Time) jsで追加要素にイベント効かないのってほぼ必ずハマる．ReactやVueではコンポーネント単位とかで毎回レンダリングし直してるから意識しなくても動作するわけか．
