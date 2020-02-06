@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 06 2020 19:52:14 GMT+0000 (Coordinated Universal Time) Firebaseのルール，少し前はallow read, write: if auth != null;でいけてたのにいけなくなってたので，allow read, write: if request.auth != null;にしたらいけた．
+
 - Thu Feb 06 2020 19:49:14 GMT+0000 (Coordinated Universal Time) デプロイしてもGithubに上げてもどうせ誰も見ないんだから細かいことは気にせずやっていくスタイル．
 
 - Thu Feb 06 2020 18:16:03 GMT+0000 (Coordinated Universal Time) コード調べるときに「同じことやってる」じゃなくて「同じ動きしてる」というのを見つけて取り入れられるかどうかが大事かなと思った．
