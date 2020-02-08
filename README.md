@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 08 2020 12:01:34 GMT+0000 (Coordinated Universal Time) O'ReillyのサイトからReal World HTTPのミニ版が\0で購入可能．webの概要を把握するにはとても良さそう．
+
 - Fri Feb 07 2020 17:38:51 GMT+0000 (Coordinated Universal Time) Googleスライドで英数字入力のダブルクオートが「“」になる問題は一旦打ってから「command + z」で戻せることが判明した．．！
 
 - Fri Feb 07 2020 15:50:46 GMT+0000 (Coordinated Universal Time) 人間に依存する仕組みだから失敗する．定型的な業務に関しては人間の能力や体調に関係なく確実に実行される仕組みを構築する必要があると感じた2日間であった．
