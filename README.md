@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 09 2020 19:18:55 GMT+0000 (Coordinated Universal Time) 相手によって知っていることが異なるから，同じ内容でも毎回表現は工夫したいものである．
+
 - Sat Feb 08 2020 18:25:20 GMT+0000 (Coordinated Universal Time) 遊び心がなくなるので，オーバーワークにならないよう気をつけたい．
 
 - Sat Feb 08 2020 12:01:34 GMT+0000 (Coordinated Universal Time) O'ReillyのサイトからReal World HTTPのミニ版が\0で購入可能．webの概要を把握するにはとても良さそう．
