@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Feb 10 2020 20:17:44 GMT+0000 (Coordinated Universal Time) チョコレートの味は原材料を見れば大凡把握できる．植物油脂が入っていなければ当たりの確率が高い．
+
 - Sun Feb 09 2020 19:18:55 GMT+0000 (Coordinated Universal Time) 相手によって知っていることが異なるから，同じ内容でも毎回表現は工夫したいものである．
 
 - Sat Feb 08 2020 18:25:20 GMT+0000 (Coordinated Universal Time) 遊び心がなくなるので，オーバーワークにならないよう気をつけたい．
