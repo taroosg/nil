@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 11 2020 17:29:06 GMT+0000 (Coordinated Universal Time) あれ．．．BraveでFirebase Loginが403されるな．．．
+
 - Tue Feb 11 2020 16:25:43 GMT+0000 (Coordinated Universal Time) Node.jsのバージョン&パッケージ管理がうまくいっていない感がある．．．これは一旦入れ直したほうがいいか．．．
 
 - Mon Feb 10 2020 20:17:44 GMT+0000 (Coordinated Universal Time) チョコレートの味は原材料を見れば大凡把握できる．植物油脂が入っていなければ当たりの確率が高い．
