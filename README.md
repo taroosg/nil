@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 11 2020 17:33:46 GMT+0000 (Coordinated Universal Time) BraveからのFirebase Login，Shield -> Cookies -> Allow all cookiesにしたら通った．
+
 - Tue Feb 11 2020 17:29:06 GMT+0000 (Coordinated Universal Time) あれ．．．BraveでFirebase Loginが403されるな．．．
 
 - Tue Feb 11 2020 16:25:43 GMT+0000 (Coordinated Universal Time) Node.jsのバージョン&パッケージ管理がうまくいっていない感がある．．．これは一旦入れ直したほうがいいか．．．
