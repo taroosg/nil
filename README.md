@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 12 2020 23:47:22 GMT+0000 (Coordinated Universal Time) 自分の場合，気圧から来る頭痛で痛む箇所は大きく分けて3箇所あることがわかった．眼の周辺，眼の奥，頭と首の間
+
 - Tue Feb 11 2020 17:33:46 GMT+0000 (Coordinated Universal Time) BraveからのFirebase Login，Shield -> Cookies -> Allow all cookiesにしたら通った．
 
 - Tue Feb 11 2020 17:29:06 GMT+0000 (Coordinated Universal Time) あれ．．．BraveでFirebase Loginが403されるな．．．
