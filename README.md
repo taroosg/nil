@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 13 2020 13:58:24 GMT+0000 (Coordinated Universal Time) 実現するまで可能性を試し続ける，というのは意外に難しいことなのかもしれない．
+
 - Thu Feb 13 2020 11:47:42 GMT+0000 (Coordinated Universal Time) $ npx create-react-app hogehogeやるとgyp ERR!出まくって困ったのだがXcodeのCommand Line Toolが原因だった．$ xcode-select -print-pathでインストール場所確認 -> $ sudo rm -rf 
 
 - Wed Feb 12 2020 23:47:22 GMT+0000 (Coordinated Universal Time) 自分の場合，気圧から来る頭痛で痛む箇所は大きく分けて3箇所あることがわかった．眼の周辺，眼の奥，頭と首の間
