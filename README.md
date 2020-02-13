@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 13 2020 13:59:28 GMT+0000 (Coordinated Universal Time) 試行回数って大事だなあ．
+
 - Thu Feb 13 2020 13:58:24 GMT+0000 (Coordinated Universal Time) 実現するまで可能性を試し続ける，というのは意外に難しいことなのかもしれない．
 
 - Thu Feb 13 2020 11:47:42 GMT+0000 (Coordinated Universal Time) $ npx create-react-app hogehogeやるとgyp ERR!出まくって困ったのだがXcodeのCommand Line Toolが原因だった．$ xcode-select -print-pathでインストール場所確認 -> $ sudo rm -rf 
