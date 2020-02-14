@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Feb 14 2020 18:18:45 GMT+0000 (Coordinated Universal Time) npmのconfigにproxy設定が勝手にされているというエラーに遭遇したのだがググっても出ないしなんなのか．．．
+
 - Thu Feb 13 2020 22:53:30 GMT+0000 (Coordinated Universal Time) build commandをいじって個別にファイルを焼き払うというパワープレイをかましdeployを成功させた．
 
 - Thu Feb 13 2020 18:26:30 GMT+0000 (Coordinated Universal Time) $ gatsby developで ERROR #85901  GRAPHQLと怒られたが，node_modules/gatsby-source-contentful/src/fragments.jsを削除して事なきを得た．
