@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 15 2020 22:55:30 GMT+0000 (Coordinated Universal Time) Firebaseでプロジェクトつくりすぎて削除が間に合わない罠（2敗目）
+
 - Sat Feb 15 2020 19:44:48 GMT+0000 (Coordinated Universal Time) なにかつくったらとりあえず発表！
 
 - Sat Feb 15 2020 13:23:23 GMT+0000 (Coordinated Universal Time) メール管理は受信トレイを空に保つように意識すると幸せになれる．
