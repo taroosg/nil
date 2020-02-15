@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 15 2020 19:44:48 GMT+0000 (Coordinated Universal Time) なにかつくったらとりあえず発表！
+
 - Sat Feb 15 2020 13:23:23 GMT+0000 (Coordinated Universal Time) メール管理は受信トレイを空に保つように意識すると幸せになれる．
 
 - Sat Feb 15 2020 10:11:54 GMT+0000 (Coordinated Universal Time) hoge.netlify.comがhoge.netlify.appになるのか．
