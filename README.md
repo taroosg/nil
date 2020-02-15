@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 15 2020 22:56:07 GMT+0000 (Coordinated Universal Time) 30日間の復元可能期間はありがたいのだが，手動で即削除させてくれ．．．
+
 - Sat Feb 15 2020 22:55:30 GMT+0000 (Coordinated Universal Time) Firebaseでプロジェクトつくりすぎて削除が間に合わない罠（2敗目）
 
 - Sat Feb 15 2020 19:44:48 GMT+0000 (Coordinated Universal Time) なにかつくったらとりあえず発表！
