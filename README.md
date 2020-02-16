@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 16 2020 13:14:54 GMT+0000 (Coordinated Universal Time) const result = props.hoge?.(fuga);とかやるとprops.hoge()が存在するときのみ関数を実行してくれて神．
+
 - Sat Feb 15 2020 23:02:42 GMT+0000 (Coordinated Universal Time) cloud functionsのデプロイがうまくいかんのでGCPコンソールで調べたら，プロジェクトのサービスアカウントhogehoge@appspot.gserviceaccount.comが作成されていなかった．なんでや．．．
 
 - Sat Feb 15 2020 22:56:07 GMT+0000 (Coordinated Universal Time) 30日間の復元可能期間はありがたいのだが，手動で即削除させてくれ．．．
