@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 16 2020 14:17:36 GMT+0000 (Coordinated Universal Time) APIのリクエストURLに「:」をつけ忘れて数十分をドブに捨てた．
+
 - Sun Feb 16 2020 13:14:54 GMT+0000 (Coordinated Universal Time) const result = props.hoge?.(fuga);とかやるとprops.hoge()が存在するときのみ関数を実行してくれて神．
 
 - Sat Feb 15 2020 23:02:42 GMT+0000 (Coordinated Universal Time) cloud functionsのデプロイがうまくいかんのでGCPコンソールで調べたら，プロジェクトのサービスアカウントhogehoge@appspot.gserviceaccount.comが作成されていなかった．なんでや．．．
