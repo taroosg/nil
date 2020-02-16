@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 16 2020 15:31:18 GMT+0000 (Coordinated Universal Time) やっぱりPromiseを返してくれるのって楽でいいな．https://github.com/request/request-promise-native
+
 - Sun Feb 16 2020 14:40:24 GMT+0000 (Coordinated Universal Time) cloud FunctionsからGoogle books APIにリクエスト送るときはAPI側で地域を特定できなくてエラー吐かれる．パラメータにcountry=JPを追加したらいけた．
 
 - Sun Feb 16 2020 14:17:36 GMT+0000 (Coordinated Universal Time) APIのリクエストURLに「:」をつけ忘れて数十分をドブに捨てた．
