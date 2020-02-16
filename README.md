@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Feb 16 2020 15:47:15 GMT+0000 (Coordinated Universal Time) 文字数カウント機能をつけよう（戒め）
+
 - Sun Feb 16 2020 15:45:47 GMT+0000 (Coordinated Universal Time) ふむ．．．とりあえず8のままにしておこう．>>Node.js 10 ランタイムは現在ベータ版です。Node 8 に関数をデプロイするには firebase-tools 4.0.0 以降が必要です。安定していて async/await 構文がサポートされている Node 8 を
 
 - Sun Feb 16 2020 15:31:18 GMT+0000 (Coordinated Universal Time) やっぱりPromiseを返してくれるのって楽でいいな．https://github.com/request/request-promise-native
