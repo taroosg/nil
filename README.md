@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 18 2020 20:19:24 GMT+0000 (Coordinated Universal Time) Cloud FunctionsでPuppeteer動かした．前やったときはよくわからんまま動かしていたけど，今見たらシンプルなことやってるだけだな．
+
 - Tue Feb 18 2020 15:19:02 GMT+0000 (Coordinated Universal Time) やたらとSEOにばかり力を入れるサイトが検索結果画面を汚染するので拡張機能で駆逐した．https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja-ubl
 
 - Mon Feb 17 2020 14:28:07 GMT+0000 (Coordinated Universal Time) ‪志摩の海鮮丼屋は11:00-14:00の営業で水曜休み‬
