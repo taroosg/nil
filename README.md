@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 19 2020 18:26:34 GMT+0000 (Coordinated Universal Time) Cloud Functionsに環境変数を設定したいときはGCPのコンソールから設定しないといかん．
+
 - Tue Feb 18 2020 20:49:15 GMT+0000 (Coordinated Universal Time) Cloud Functionsでpuppeteer動かすときは`{ headless: true, args: ['--no-sandbox'] }`をoptionに設定しないといかんのが罠だった．
 
 - Tue Feb 18 2020 20:19:24 GMT+0000 (Coordinated Universal Time) Cloud FunctionsでPuppeteer動かした．前やったときはよくわからんまま動かしていたけど，今見たらシンプルなことやってるだけだな．
