@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 20 2020 22:56:05 GMT+0000 (Coordinated Universal Time) Monoidはmempty（単位元：加算なら0，乗算なら1など）とmappend（やりたい演算）を定義すれば良さそう．．．多分．．．
+
 - Thu Feb 20 2020 16:40:01 GMT+0000 (Coordinated Universal Time) Cloud Vision APIは`LABEL_DETECTION`で性別判断しなくなるってさ．>>the API will no longer return gendered labels such as 'man' and 'woman' that describe pe
 
 - Wed Feb 19 2020 22:36:05 GMT+0000 (Coordinated Universal Time) 技術は毎日触らないと忘れる（戒め）
