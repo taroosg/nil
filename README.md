@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 22 2020 13:16:49 GMT+0000 (Coordinated Universal Time) 気温高い + 風が強い という花粉症にとって最悪の条件が揃っているのでいつもより血糖値の安定を意識している．
+
 - Fri Feb 21 2020 14:17:29 GMT+0000 (Coordinated Universal Time) 落ち込むことは悪いことではない．まずいのは自分が落ち込んでいる状態を認識できていないことだ。
 
 - Thu Feb 20 2020 22:56:05 GMT+0000 (Coordinated Universal Time) Monoidはmempty（単位元：加算なら0，乗算なら1など）とmappend（やりたい演算）を定義すれば良さそう．．．多分．．．
