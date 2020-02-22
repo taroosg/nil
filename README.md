@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Feb 22 2020 19:31:47 GMT+0000 (Coordinated Universal Time) 結合法則を満たす演算を定義しているのがSemigroup（半群），Semigroupのうち，単位元（ax = xa = aとなるx）を持つものがMonoid（現状の理解）．
+
 - Sat Feb 22 2020 13:16:49 GMT+0000 (Coordinated Universal Time) 気温高い + 風が強い という花粉症にとって最悪の条件が揃っているのでいつもより血糖値の安定を意識している．
 
 - Fri Feb 21 2020 14:17:29 GMT+0000 (Coordinated Universal Time) 落ち込むことは悪いことではない．まずいのは自分が落ち込んでいる状態を認識できていないことだ。
