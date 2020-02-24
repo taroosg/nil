@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Feb 24 2020 18:18:41 GMT+0000 (Coordinated Universal Time) 予定が何もない日を用意するのも大事．
+
 - Sun Feb 23 2020 02:13:06 GMT+0000 (Coordinated Universal Time) 遅くなってもお肌の手入れはぜったい！人前に出る仕事だし多少はね．
 
 - Sat Feb 22 2020 19:31:47 GMT+0000 (Coordinated Universal Time) 結合法則を満たす演算を定義しているのがSemigroup（半群），Semigroupのうち，単位元（ax = xa = aとなるx）を持つものがMonoid（現状の理解）．
