@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 19:55:43 GMT+0000 (Coordinated Universal Time) 集中力が切れた状態かどうかを客観的に判断できるとすこし幸せになれる．
+
 - Tue Feb 25 2020 19:33:15 GMT+0000 (Coordinated Universal Time) `Non-exhaustive patterns in function`←パターンが足りないので`[]`とか0とかのパターンマッチングを定義すればOK．
 
 - Tue Feb 25 2020 17:57:01 GMT+0000 (Coordinated Universal Time) firebase使うにしてもnode経由にしたいな．Reactの処理が単純なhttpリクエストで済む．
