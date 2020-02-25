@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 16:56:39 GMT+0000 (Coordinated Universal Time) stateの管理はuseStateに任せる．stateを使うためにuseStateの値と関数をcontextに渡すことで子コンポーネントでも親コンポーネントのstateを参照&更新できる．
+
 - Tue Feb 25 2020 14:21:51 GMT+0000 (Coordinated Universal Time) 平日は経験値稼ぎの日．休日は新しい武器を探す日．
 
 - Tue Feb 25 2020 01:04:29 GMT+0000 (Coordinated Universal Time) コード書ける時間には限りがあるから，それ以外の時間にどうやって書こうかを考えておくと違ってくる．．．かもしれない．
