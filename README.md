@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 17:10:39 GMT+0000 (Coordinated Universal Time) useContext完全に理解した．
+
 - Tue Feb 25 2020 16:58:22 GMT+0000 (Coordinated Universal Time) 子コンポーネントではcontextでuseState関連の値と関数を受け取るので，useContextを使ってuseStateみたいなことができる．
 
 - Tue Feb 25 2020 16:56:39 GMT+0000 (Coordinated Universal Time) stateの管理はuseStateに任せる．stateを使うためにuseStateの値と関数をcontextに渡すことで子コンポーネントでも親コンポーネントのstateを参照&更新できる．
