@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 14:21:51 GMT+0000 (Coordinated Universal Time) 平日は経験値稼ぎの日．休日は新しい武器を探す日．
+
 - Tue Feb 25 2020 01:04:29 GMT+0000 (Coordinated Universal Time) コード書ける時間には限りがあるから，それ以外の時間にどうやって書こうかを考えておくと違ってくる．．．かもしれない．
 
 - Mon Feb 24 2020 18:18:41 GMT+0000 (Coordinated Universal Time) 予定が何もない日を用意するのも大事．
