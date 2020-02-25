@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 17:54:47 GMT+0000 (Coordinated Universal Time) useState, useEffect, useContextあたりをいい感じに使ってなにかつくりたいが，プロダクト案が思い浮かないので一旦寝かせる．
+
 - Tue Feb 25 2020 17:10:39 GMT+0000 (Coordinated Universal Time) useContext完全に理解した．
 
 - Tue Feb 25 2020 16:58:22 GMT+0000 (Coordinated Universal Time) 子コンポーネントではcontextでuseState関連の値と関数を受け取るので，useContextを使ってuseStateみたいなことができる．
