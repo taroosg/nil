@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 20:16:24 GMT+0000 (Coordinated Universal Time) わからないということを受け入れるのも大事だなあ．自分に対して過度な期待をせずに自然体でいるような感じ．
+
 - Tue Feb 25 2020 19:55:43 GMT+0000 (Coordinated Universal Time) 集中力が切れた状態かどうかを客観的に判断できるとすこし幸せになれる．
 
 - Tue Feb 25 2020 19:33:15 GMT+0000 (Coordinated Universal Time) `Non-exhaustive patterns in function`←パターンが足りないので`[]`とか0とかのパターンマッチングを定義すればOK．
