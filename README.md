@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Feb 25 2020 22:15:15 GMT+0000 (Coordinated Universal Time) Maybeでラップするとnullが発生しなくなるので例外を考慮しなくて良くなる．ただしMaybe型への対処は必要．
+
 - Tue Feb 25 2020 20:17:02 GMT+0000 (Coordinated Universal Time) いや，それは自分ならいつかわかるだろうという信頼の上に成り立っているのか．．．ううむ．．．
 
 - Tue Feb 25 2020 20:16:24 GMT+0000 (Coordinated Universal Time) わからないということを受け入れるのも大事だなあ．自分に対して過度な期待をせずに自然体でいるような感じ．
