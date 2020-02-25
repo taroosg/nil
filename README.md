@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 26 2020 00:59:36 GMT+0000 (Coordinated Universal Time) material-uiの`KeyboardDatePicker`から親コンポーネントにわたすときにハマった．親のstate更新関数を渡して子の`onChange`で実行しないといかんかった．
+
 - Tue Feb 25 2020 22:15:15 GMT+0000 (Coordinated Universal Time) Maybeでラップするとnullが発生しなくなるので例外を考慮しなくて良くなる．ただしMaybe型への対処は必要．
 
 - Tue Feb 25 2020 20:17:02 GMT+0000 (Coordinated Universal Time) いや，それは自分ならいつかわかるだろうという信頼の上に成り立っているのか．．．ううむ．．．
