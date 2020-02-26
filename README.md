@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 26 2020 22:49:20 GMT+0000 (Coordinated Universal Time) 勉強しつつ書いたサンプルコードも都度Githubにあげておくとやった感が残って良き．
+
 - Wed Feb 26 2020 22:41:13 GMT+0000 (Coordinated Universal Time) しかしどの言語やっててもエラー解決したときの感覚はたまらんな．特に適当に試したときではなくて明確な意思を持って試したとき．
 
 - Wed Feb 26 2020 21:49:48 GMT+0000 (Coordinated Universal Time) Haskell勉強してるけどコンパイル通ったときの安心感にハマりそうw
