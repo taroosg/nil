@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 26 2020 21:49:48 GMT+0000 (Coordinated Universal Time) Haskell勉強してるけどコンパイル通ったときの安心感にハマりそうw
+
 - Wed Feb 26 2020 18:53:26 GMT+0000 (Coordinated Universal Time) PHPのサンプルコード直してるけど，やはり雑にでもサーバの動きを知っておくことは大事だな．
 
 - Wed Feb 26 2020 15:33:48 GMT+0000 (Coordinated Universal Time) エラー調べるためにコード書いたらとりあえずGithubにあげておく，ということを試している．なお管理方法は特に考えていない模様．
