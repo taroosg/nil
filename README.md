@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 26 2020 15:33:48 GMT+0000 (Coordinated Universal Time) エラー調べるためにコード書いたらとりあえずGithubにあげておく，ということを試している．なお管理方法は特に考えていない模様．
+
 - Wed Feb 26 2020 11:26:26 GMT+0000 (Coordinated Universal Time) 結局自分でコードを書いてみないとわからん．
 
 - Wed Feb 26 2020 00:59:36 GMT+0000 (Coordinated Universal Time) material-uiの`KeyboardDatePicker`から親コンポーネントにわたすときにハマった．親のstate更新関数を渡して子の`onChange`で実行しないといかんかった．
