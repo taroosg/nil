@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Feb 26 2020 22:41:13 GMT+0000 (Coordinated Universal Time) しかしどの言語やっててもエラー解決したときの感覚はたまらんな．特に適当に試したときではなくて明確な意思を持って試したとき．
+
 - Wed Feb 26 2020 21:49:48 GMT+0000 (Coordinated Universal Time) Haskell勉強してるけどコンパイル通ったときの安心感にハマりそうw
 
 - Wed Feb 26 2020 18:53:26 GMT+0000 (Coordinated Universal Time) PHPのサンプルコード直してるけど，やはり雑にでもサーバの動きを知っておくことは大事だな．
