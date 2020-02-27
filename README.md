@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Feb 27 2020 15:04:57 GMT+0000 (Coordinated Universal Time) 相変わらず難易度調整が難しい．．．次は基礎重視にしてみる．日々仮設&検証．
+
 - Wed Feb 26 2020 22:49:20 GMT+0000 (Coordinated Universal Time) 勉強しつつ書いたサンプルコードも都度Githubにあげておくとやった感が残って良き．
 
 - Wed Feb 26 2020 22:41:13 GMT+0000 (Coordinated Universal Time) しかしどの言語やっててもエラー解決したときの感覚はたまらんな．特に適当に試したときではなくて明確な意思を持って試したとき．
