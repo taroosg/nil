@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Feb 28 2020 15:31:21 GMT+0000 (Coordinated Universal Time) 最近これを実感することが多い．バグダッシュ中佐「世の中に飛び交っている情報ってものには，必ずベクトルがかかっているんだ．つまり、誘導しようとしていたり願望が含まれていたり．．．」
+
 - Thu Feb 27 2020 18:24:24 GMT+0000 (Coordinated Universal Time) サンプルコードの解説用にreadmeファイルを作成してみた．スライドよりまとめやすいから，これ見ながらスライドつくってみる．
 
 - Thu Feb 27 2020 15:04:57 GMT+0000 (Coordinated Universal Time) 相変わらず難易度調整が難しい．．．次は基礎重視にしてみる．日々仮設&検証．
