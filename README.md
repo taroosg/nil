@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Mar 01 2020 14:15:50 GMT+0000 (Coordinated Universal Time) facebookの動画（容量大）は細かく分割したものを一定時間ごとに読み込んでいるようだ．再生中にnetworkタブを見ると挙動を確認できる．
+
 - Fri Feb 28 2020 16:31:28 GMT+0000 (Coordinated Universal Time) 不定期にGithubを大掃除している．
 
 - Fri Feb 28 2020 15:58:58 GMT+0000 (Coordinated Universal Time) readmeファイルにまとめてみると講義のボリュームが行数というパラメータで可視化されて良いな（白目）
