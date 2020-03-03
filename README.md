@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Mar 03 2020 23:13:55 GMT+0000 (Coordinated Universal Time) ベストな状態の維持には必要十分な睡眠，やや少なめの食事，知性を刺激する情報や会話が必要である．
+
 - Mon Mar 02 2020 23:06:57 GMT+0000 (Coordinated Universal Time) ‪自分の想定よりもHPが減っていたようだ．‬‪こういうのは自分より詳しい人に話すのが一番であるな．‬
 
 - Sun Mar 01 2020 14:15:50 GMT+0000 (Coordinated Universal Time) facebookの動画（容量大）は細かく分割したものを一定時間ごとに読み込んでいるようだ．再生中にnetworkタブを見ると挙動を確認できる．
