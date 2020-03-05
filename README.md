@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Mar 05 2020 20:13:26 GMT+0000 (Coordinated Universal Time) 講義内容のlaravel7対応完了！（ただし資料の形にはなっていない）
+
 - Tue Mar 03 2020 23:13:55 GMT+0000 (Coordinated Universal Time) ベストな状態の維持には必要十分な睡眠，やや少なめの食事，知性を刺激する情報や会話が必要である．
 
 - Mon Mar 02 2020 23:06:57 GMT+0000 (Coordinated Universal Time) ‪自分の想定よりもHPが減っていたようだ．‬‪こういうのは自分より詳しい人に話すのが一番であるな．‬
