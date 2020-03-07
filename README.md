@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Mar 07 2020 23:08:54 GMT+0000 (Coordinated Universal Time) 目標といい材料があると議論が捗る．料理と同じかな．
+
 - Fri Mar 06 2020 23:54:12 GMT+0000 (Coordinated Universal Time) asyncしてawaitしてってやってるとpromiseしたくなくなるな．最初から自動でpromiseしてくれる関数探してしまう．
 
 - Thu Mar 05 2020 20:13:26 GMT+0000 (Coordinated Universal Time) 講義内容のlaravel7対応完了！（ただし資料の形にはなっていない）
