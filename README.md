@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Mar 08 2020 18:30:21 GMT+0000 (Coordinated Universal Time) 「頭の中でイメージをつくる力」と「イメージを文章として表現する力」は独立なのではないかという仮説．
+
 - Sun Mar 08 2020 14:29:44 GMT+0000 (Coordinated Universal Time) JSONファイルに余計なスペースが入っていて無事死亡．
 
 - Sun Mar 08 2020 13:22:42 GMT+0000 (Coordinated Universal Time) 関数の定義，親がすべきか子がすべきか．
