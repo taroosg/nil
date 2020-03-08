@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Mar 08 2020 13:22:42 GMT+0000 (Coordinated Universal Time) 関数の定義，親がすべきか子がすべきか．
+
 - Sat Mar 07 2020 23:08:54 GMT+0000 (Coordinated Universal Time) 目標といい材料があると議論が捗る．料理と同じかな．
 
 - Fri Mar 06 2020 23:54:12 GMT+0000 (Coordinated Universal Time) asyncしてawaitしてってやってるとpromiseしたくなくなるな．最初から自動でpromiseしてくれる関数探してしまう．
