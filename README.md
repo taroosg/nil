@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Mar 09 2020 23:56:17 GMT+0000 (Coordinated Universal Time) 言語化能力の強化には，読書などの日本語のインプットと説明というアウトプットが効果的ではないかと考えている．
+
 - Sun Mar 08 2020 18:30:21 GMT+0000 (Coordinated Universal Time) 「頭の中でイメージをつくる力」と「イメージを文章として表現する力」は独立なのではないかという仮説．
 
 - Sun Mar 08 2020 14:29:44 GMT+0000 (Coordinated Universal Time) JSONファイルに余計なスペースが入っていて無事死亡．
