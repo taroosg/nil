@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Mar 11 2020 20:04:28 GMT+0000 (Coordinated Universal Time) PHPの`bool`の挙動がイマイチよくわからん．．．`false`で条件分けたいときは`!$hoge`が無難そうだ．
+
 - Wed Mar 11 2020 16:05:55 GMT+0000 (Coordinated Universal Time) 頑なにClass Component 使わないマンになってる．
 
 - Mon Mar 09 2020 23:56:17 GMT+0000 (Coordinated Universal Time) 言語化能力の強化には，読書などの日本語のインプットと説明というアウトプットが効果的ではないかと考えている．
