@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Mar 12 2020 13:32:45 GMT+0000 (Coordinated Universal Time) oh...`$ php artisan -V``Laravel Framework 7.1.0`
+
 - Wed Mar 11 2020 20:04:28 GMT+0000 (Coordinated Universal Time) PHPの`bool`の挙動がイマイチよくわからん．．．`false`で条件分けたいときは`!$hoge`が無難そうだ．
 
 - Wed Mar 11 2020 16:05:55 GMT+0000 (Coordinated Universal Time) 頑なにClass Component 使わないマンになってる．
