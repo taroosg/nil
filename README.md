@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Mar 14 2020 17:53:49 GMT+0000 (Coordinated Universal Time) Optional Chaining!`const hoge = fuga?.();`
+
 - Thu Mar 12 2020 13:32:45 GMT+0000 (Coordinated Universal Time) oh...`$ php artisan -V``Laravel Framework 7.1.0`
 
 - Wed Mar 11 2020 20:04:28 GMT+0000 (Coordinated Universal Time) PHPの`bool`の挙動がイマイチよくわからん．．．`false`で条件分けたいときは`!$hoge`が無難そうだ．
