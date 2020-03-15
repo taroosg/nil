@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Mar 16 2020 01:27:27 GMT+0000 (Coordinated Universal Time) 何かを説明するとき，相手のバックグラウンドに合わせたなにかに例えると理解度が結構上がる．
+
 - Sat Mar 14 2020 17:53:49 GMT+0000 (Coordinated Universal Time) Optional Chaining!`const hoge = fuga?.();`
 
 - Thu Mar 12 2020 13:32:45 GMT+0000 (Coordinated Universal Time) oh...`$ php artisan -V``Laravel Framework 7.1.0`
