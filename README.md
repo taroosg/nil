@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Mar 16 2020 13:59:22 GMT+0000 (Coordinated Universal Time) 疑似コード超大事．
+
 - Mon Mar 16 2020 01:27:27 GMT+0000 (Coordinated Universal Time) 何かを説明するとき，相手のバックグラウンドに合わせたなにかに例えると理解度が結構上がる．
 
 - Sat Mar 14 2020 17:53:49 GMT+0000 (Coordinated Universal Time) Optional Chaining!`const hoge = fuga?.();`
