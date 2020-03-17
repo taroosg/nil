@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Mar 17 2020 20:57:56 GMT+0000 (Coordinated Universal Time) foreachを使うしかないときの無力感と諦めたくない感．
+
 - Mon Mar 16 2020 13:59:22 GMT+0000 (Coordinated Universal Time) 疑似コード超大事．
 
 - Mon Mar 16 2020 01:27:27 GMT+0000 (Coordinated Universal Time) 何かを説明するとき，相手のバックグラウンドに合わせたなにかに例えると理解度が結構上がる．
