@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Mar 18 2020 18:22:07 GMT+0000 (Coordinated Universal Time) テキストも配列にしてしまえばだいたいどうにかなる．
+
 - Tue Mar 17 2020 20:57:56 GMT+0000 (Coordinated Universal Time) foreachを使うしかないときの無力感と諦めたくない感．
 
 - Mon Mar 16 2020 13:59:22 GMT+0000 (Coordinated Universal Time) 疑似コード超大事．
