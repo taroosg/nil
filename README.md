@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Mar 19 2020 18:03:12 GMT+0000 (Coordinated Universal Time) 電車移動中は実装アイデア練ったり調べ物したりが良さげ．作業始めたらすぐに手を動かせる状態にしたい．
+
 - Wed Mar 18 2020 18:22:07 GMT+0000 (Coordinated Universal Time) テキストも配列にしてしまえばだいたいどうにかなる．
 
 - Tue Mar 17 2020 20:57:56 GMT+0000 (Coordinated Universal Time) foreachを使うしかないときの無力感と諦めたくない感．
