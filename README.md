@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Mar 20 2020 16:39:45 GMT+0000 (Coordinated Universal Time) せいぜい考えるのは売れるか売れないか．ゴミ袋と売り物袋があれば事足りる．
+
 - Fri Mar 20 2020 16:38:25 GMT+0000 (Coordinated Universal Time) 断捨離のコツは考えないこと．僅かでも考えはじめたら即座に中止してゴミ袋に放り込め．
 
 - Thu Mar 19 2020 18:03:12 GMT+0000 (Coordinated Universal Time) 電車移動中は実装アイデア練ったり調べ物したりが良さげ．作業始めたらすぐに手を動かせる状態にしたい．
