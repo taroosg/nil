@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Mar 21 2020 22:51:27 GMT+0000 (Coordinated Universal Time) 縛りがある時に抜け道を考えるのが楽しい．
+
 - Fri Mar 20 2020 16:39:45 GMT+0000 (Coordinated Universal Time) せいぜい考えるのは売れるか売れないか．ゴミ袋と売り物袋があれば事足りる．
 
 - Fri Mar 20 2020 16:38:25 GMT+0000 (Coordinated Universal Time) 断捨離のコツは考えないこと．僅かでも考えはじめたら即座に中止してゴミ袋に放り込め．
