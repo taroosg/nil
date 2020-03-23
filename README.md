@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Mar 23 2020 22:34:04 GMT+0000 (Coordinated Universal Time) 何かを理解したら文章に残す．大事．
+
 - Sat Mar 21 2020 22:51:27 GMT+0000 (Coordinated Universal Time) 縛りがある時に抜け道を考えるのが楽しい．
 
 - Fri Mar 20 2020 16:39:45 GMT+0000 (Coordinated Universal Time) せいぜい考えるのは売れるか売れないか．ゴミ袋と売り物袋があれば事足りる．
