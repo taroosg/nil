@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Mar 24 2020 15:42:48 GMT+0000 (Coordinated Universal Time) 蛤の砂抜き塩抜きは4-5hみたほうが良さそうであるな．
+
 - Mon Mar 23 2020 22:34:04 GMT+0000 (Coordinated Universal Time) 何かを理解したら文章に残す．大事．
 
 - Sat Mar 21 2020 22:51:27 GMT+0000 (Coordinated Universal Time) 縛りがある時に抜け道を考えるのが楽しい．
