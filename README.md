@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Mar 25 2020 15:43:14 GMT+0000 (Coordinated Universal Time) macのsafariでも効いてないのか．．．
+
 - Wed Mar 25 2020 15:36:07 GMT+0000 (Coordinated Universal Time) モバイルのブラウザで`word-break: keep-all;`が効かん．．．これだからcssは．．．
 
 - Wed Mar 25 2020 11:09:12 GMT+0000 (Coordinated Universal Time) 変数の宣言は使う場所の近くで．
