@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Mar 25 2020 11:09:12 GMT+0000 (Coordinated Universal Time) 変数の宣言は使う場所の近くで．
+
 - Tue Mar 24 2020 15:42:48 GMT+0000 (Coordinated Universal Time) 蛤の砂抜き塩抜きは4-5hみたほうが良さそうであるな．
 
 - Mon Mar 23 2020 22:34:04 GMT+0000 (Coordinated Universal Time) 何かを理解したら文章に残す．大事．
