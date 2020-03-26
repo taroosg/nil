@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Mar 26 2020 23:52:35 GMT+0000 (Coordinated Universal Time) 読書するとフライトはあっという間📚
+
 - Wed Mar 25 2020 15:43:14 GMT+0000 (Coordinated Universal Time) macのsafariでも効いてないのか．．．
 
 - Wed Mar 25 2020 15:36:07 GMT+0000 (Coordinated Universal Time) モバイルのブラウザで`word-break: keep-all;`が効かん．．．これだからcssは．．．
