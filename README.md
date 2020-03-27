@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Mar 27 2020 16:19:40 GMT+0000 (Coordinated Universal Time) できるだけstatelessに実装したい．
+
 - Fri Mar 27 2020 13:35:06 GMT+0000 (Coordinated Universal Time) - 引数の型は揃える．- 可変長引数は隔離する．
 
 - Thu Mar 26 2020 23:52:35 GMT+0000 (Coordinated Universal Time) 読書するとフライトはあっという間📚
