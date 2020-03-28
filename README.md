@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Mar 28 2020 13:50:22 GMT+0000 (Coordinated Universal Time) `[...'👾👾👾']`うむ．．！`(3) ["👾", "👾", "👾"]`
+
 - Sat Mar 28 2020 13:49:27 GMT+0000 (Coordinated Universal Time) `'👾👾👾'.split('')`おや．．．？？`(6) ["�", "�", "�", "�", "�", "�"]`
 
 - Fri Mar 27 2020 16:19:40 GMT+0000 (Coordinated Universal Time) できるだけstatelessに実装したい．
