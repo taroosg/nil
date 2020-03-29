@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Mar 29 2020 20:45:43 GMT+0000 (Coordinated Universal Time) metaタグには画像あるのにOGPに反映されない．．．意味わからん
+
 - Sun Mar 29 2020 14:15:26 GMT+0000 (Coordinated Universal Time) また`create-react-app`で`gyp Err`．．．OS更新の度に出るのだろうがすでに対策済みよ．https://taroosg.io/create-react-app-gyp-error
 
 - Sat Mar 28 2020 13:50:22 GMT+0000 (Coordinated Universal Time) `[...'👾👾👾']`うむ．．！`(3) ["👾", "👾", "👾"]`
