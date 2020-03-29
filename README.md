@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Mar 29 2020 21:19:17 GMT+0000 (Coordinated Universal Time) 結局頼りになったのは過去のコードだけだった．
+
 - Sun Mar 29 2020 21:18:55 GMT+0000 (Coordinated Universal Time) twitter cardの表示にはmetaタグにアカウント名とかないといかん疑惑（書いたら表示された）
 
 - Sun Mar 29 2020 20:45:43 GMT+0000 (Coordinated Universal Time) metaタグには画像あるのにOGPに反映されない．．．意味わからん
