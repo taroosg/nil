@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Mar 30 2020 23:26:10 GMT+0000 (Coordinated Universal Time) ‪在宅ワークの課題は水分補給．‬‪つい忘れがち🚰‬
+
 - Sun Mar 29 2020 21:19:17 GMT+0000 (Coordinated Universal Time) 結局頼りになったのは過去のコードだけだった．
 
 - Sun Mar 29 2020 21:18:55 GMT+0000 (Coordinated Universal Time) twitter cardの表示にはmetaタグにアカウント名とかないといかん疑惑（書いたら表示された）
