@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Mar 31 2020 23:37:04 GMT+0000 (Coordinated Universal Time) 自分は幸運値が高いからできること全てやっておけば大丈夫．というメンタルで乗り切る．
+
 - Mon Mar 30 2020 23:26:10 GMT+0000 (Coordinated Universal Time) ‪在宅ワークの課題は水分補給．‬‪つい忘れがち🚰‬
 
 - Sun Mar 29 2020 21:19:17 GMT+0000 (Coordinated Universal Time) 結局頼りになったのは過去のコードだけだった．
