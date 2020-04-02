@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Apr 02 2020 23:22:01 GMT+0000 (Coordinated Universal Time) どれだけレベルが上がっても初期値を忘れてはならんな．
+
 - Tue Mar 31 2020 23:37:04 GMT+0000 (Coordinated Universal Time) 自分は幸運値が高いからできること全てやっておけば大丈夫．というメンタルで乗り切る．
 
 - Mon Mar 30 2020 23:26:10 GMT+0000 (Coordinated Universal Time) ‪在宅ワークの課題は水分補給．‬‪つい忘れがち🚰‬
