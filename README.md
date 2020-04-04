@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Apr 04 2020 14:23:15 GMT+0000 (Coordinated Universal Time) >>少し凝った方法を使えば、変数を複数の目的に使用することができる。だが、余計なことはしない方がよい。
+
 - Thu Apr 02 2020 23:22:01 GMT+0000 (Coordinated Universal Time) どれだけレベルが上がっても初期値を忘れてはならんな．
 
 - Tue Mar 31 2020 23:37:04 GMT+0000 (Coordinated Universal Time) 自分は幸運値が高いからできること全てやっておけば大丈夫．というメンタルで乗り切る．
