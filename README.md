@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Apr 05 2020 18:10:36 GMT+0000 (Coordinated Universal Time) 触れば触るほどスライドの改善点が出てくる．．．進化が止まらないなw
+
 - Sun Apr 05 2020 16:24:13 GMT+0000 (Coordinated Universal Time) Elmか．．．
 
 - Sat Apr 04 2020 14:23:15 GMT+0000 (Coordinated Universal Time) >>少し凝った方法を使えば、変数を複数の目的に使用することができる。だが、余計なことはしない方がよい。
