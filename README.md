@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Apr 05 2020 23:52:03 GMT+0000 (Coordinated Universal Time) 【在宅ワークのコツ】外行きの服を着用して作業．
+
 - Sun Apr 05 2020 18:10:36 GMT+0000 (Coordinated Universal Time) 触れば触るほどスライドの改善点が出てくる．．．進化が止まらないなw
 
 - Sun Apr 05 2020 16:24:13 GMT+0000 (Coordinated Universal Time) Elmか．．．
