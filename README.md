@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Apr 09 2020 23:49:54 GMT+0000 (Coordinated Universal Time) 差分と移動平均は時系列解析の基本（戒め）
+
 - Thu Apr 09 2020 00:48:53 GMT+0000 (Coordinated Universal Time) ‪social distancingが勧められているが，普段からsocial distancingなのであまり意識しなくてよかった．
 
 - Tue Apr 07 2020 23:53:50 GMT+0000 (Coordinated Universal Time) 対ウイルスでも放射線防護三原則の考え方は共通だと思う．- 人と距離を取る．- マスクなどで遮蔽する．- 外出時間を短くする．https://www.env.go.jp/chemi/rhm/h29kisoshiryo/h29kiso-04-03-01.html
