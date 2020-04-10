@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Apr 10 2020 23:51:27 GMT+0000 (Coordinated Universal Time) 言語化は頭の中でやるだけでは不足でテキストに起こさないといかんな．
+
 - Thu Apr 09 2020 23:49:54 GMT+0000 (Coordinated Universal Time) 差分と移動平均は時系列解析の基本（戒め）
 
 - Thu Apr 09 2020 00:48:53 GMT+0000 (Coordinated Universal Time) ‪social distancingが勧められているが，普段からsocial distancingなのであまり意識しなくてよかった．
