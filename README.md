@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Apr 12 2020 21:59:46 GMT+0000 (Coordinated Universal Time) 認証はcontextが無難そうである
+
 - Sun Apr 12 2020 14:20:25 GMT+0000 (Coordinated Universal Time) ドメインの意味はよく調べたほうが良い．特にスラングとか．
 
 - Sat Apr 11 2020 23:22:25 GMT+0000 (Coordinated Universal Time) さて1週間でなにかつくるぞ👾
