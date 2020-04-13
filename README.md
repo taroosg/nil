@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Apr 13 2020 16:12:30 GMT+0000 (Coordinated Universal Time) firestoreのインデックスって昇順降順は厳密に設定しないと動かんのか．．．
+
 - Sun Apr 12 2020 21:59:46 GMT+0000 (Coordinated Universal Time) 認証はcontextが無難そうである
 
 - Sun Apr 12 2020 14:20:25 GMT+0000 (Coordinated Universal Time) ドメインの意味はよく調べたほうが良い．特にスラングとか．
