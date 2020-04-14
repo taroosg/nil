@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Apr 14 2020 15:01:19 GMT+0000 (Coordinated Universal Time) 結局ドキュメントとissueなんだよなあ．
+
 - Tue Apr 14 2020 03:17:56 GMT+0000 (Coordinated Universal Time) 君がッ！動くまで！試すのをやめないッ！（動いた）
 
 - Mon Apr 13 2020 16:12:30 GMT+0000 (Coordinated Universal Time) firestoreのインデックスって昇順降順は厳密に設定しないと動かんのか．．．
