@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Apr 14 2020 18:54:45 GMT+0000 (Coordinated Universal Time) 理解したと思っていたことが理解していなかったことを理解してようやく完全に理解した．
+
 - Tue Apr 14 2020 15:01:19 GMT+0000 (Coordinated Universal Time) 結局ドキュメントとissueなんだよなあ．
 
 - Tue Apr 14 2020 03:17:56 GMT+0000 (Coordinated Universal Time) 君がッ！動くまで！試すのをやめないッ！（動いた）
