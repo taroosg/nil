@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Apr 15 2020 23:59:39 GMT+0000 (Coordinated Universal Time) firestoreでwhere-in使えるようになっていたことを今更知る．
+
 - Tue Apr 14 2020 18:54:45 GMT+0000 (Coordinated Universal Time) 理解したと思っていたことが理解していなかったことを理解してようやく完全に理解した．
 
 - Tue Apr 14 2020 15:01:19 GMT+0000 (Coordinated Universal Time) 結局ドキュメントとissueなんだよなあ．
