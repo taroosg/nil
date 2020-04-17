@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Apr 17 2020 14:55:30 GMT+0000 (Coordinated Universal Time) やはり頼りになるのは自分が書いた動いているコード．動くコードは資産．
+
 - Wed Apr 15 2020 23:59:39 GMT+0000 (Coordinated Universal Time) firestoreでwhere-in使えるようになっていたことを今更知る．
 
 - Tue Apr 14 2020 18:54:45 GMT+0000 (Coordinated Universal Time) 理解したと思っていたことが理解していなかったことを理解してようやく完全に理解した．
