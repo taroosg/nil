@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Apr 18 2020 21:16:23 GMT+0000 (Coordinated Universal Time) zoomやるときは複数端末で入ってどう見えているかを確認しながらやると良いな．
+
 - Fri Apr 17 2020 14:55:30 GMT+0000 (Coordinated Universal Time) やはり頼りになるのは自分が書いた動いているコード．動くコードは資産．
 
 - Wed Apr 15 2020 23:59:39 GMT+0000 (Coordinated Universal Time) firestoreでwhere-in使えるようになっていたことを今更知る．
