@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Apr 24 2020 23:52:32 GMT+0000 (Coordinated Universal Time) 講義は準備が9割．．．
+
 - Tue Apr 21 2020 23:53:07 GMT+0000 (Coordinated Universal Time) Guthub actions 使ってみるかな．
 
 - Sat Apr 18 2020 21:16:23 GMT+0000 (Coordinated Universal Time) zoomやるときは複数端末で入ってどう見えているかを確認しながらやると良いな．
