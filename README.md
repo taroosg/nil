@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Apr 25 2020 21:30:01 GMT+0000 (Coordinated Universal Time) やったことないことやってクリアする感覚がたまらん．
+
 - Fri Apr 24 2020 23:52:32 GMT+0000 (Coordinated Universal Time) 講義は準備が9割．．．
 
 - Tue Apr 21 2020 23:53:07 GMT+0000 (Coordinated Universal Time) Guthub actions 使ってみるかな．
