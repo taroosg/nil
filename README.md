@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Apr 26 2020 21:06:59 GMT+0000 (Coordinated Universal Time) ものを減らし始めてから初めての引っ越しだったが超楽だった．家電以外は「自分で家の外に運べるかどうか」で判断して買い物すると良い．
+
 - Sat Apr 25 2020 21:30:01 GMT+0000 (Coordinated Universal Time) やったことないことやってクリアする感覚がたまらん．
 
 - Fri Apr 24 2020 23:52:32 GMT+0000 (Coordinated Universal Time) 講義は準備が9割．．．
