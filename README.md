@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Apr 26 2020 21:08:10 GMT+0000 (Coordinated Universal Time) 「1つ買ったら1つ以上手放す」は鉄則．特に衣類👚
+
 - Sun Apr 26 2020 21:06:59 GMT+0000 (Coordinated Universal Time) ものを減らし始めてから初めての引っ越しだったが超楽だった．家電以外は「自分で家の外に運べるかどうか」で判断して買い物すると良い．
 
 - Sat Apr 25 2020 21:30:01 GMT+0000 (Coordinated Universal Time) やったことないことやってクリアする感覚がたまらん．
