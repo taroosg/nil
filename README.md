@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Apr 27 2020 22:04:38 GMT+0000 (Coordinated Universal Time) PCつくりたくなってきた．なお予算はない．
+
 - Mon Apr 27 2020 22:02:36 GMT+0000 (Coordinated Universal Time) `netlify.com`が`netlify.app`になったのを修正し忘れていた．気づいてよかった．
 
 - Sun Apr 26 2020 21:08:10 GMT+0000 (Coordinated Universal Time) 「1つ買ったら1つ以上手放す」は鉄則．特に衣類👚
