@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Apr 28 2020 22:37:38 GMT+0000 (Coordinated Universal Time) zoomで画面共有しつつ他の人含めて録画するときは，他の人の画面を表示しておかないと録画されないようだ．
+
 - Mon Apr 27 2020 22:04:38 GMT+0000 (Coordinated Universal Time) PCつくりたくなってきた．なお予算はない．
 
 - Mon Apr 27 2020 22:02:36 GMT+0000 (Coordinated Universal Time) `netlify.com`が`netlify.app`になったのを修正し忘れていた．気づいてよかった．
