@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Apr 29 2020 12:33:52 GMT+0000 (Coordinated Universal Time) googleスライドでキーボードが効かなくなったがブラウザ再起動で解決．いつの時代も再起動は基本中の基本．
+
 - Tue Apr 28 2020 22:37:38 GMT+0000 (Coordinated Universal Time) zoomで画面共有しつつ他の人含めて録画するときは，他の人の画面を表示しておかないと録画されないようだ．
 
 - Mon Apr 27 2020 22:04:38 GMT+0000 (Coordinated Universal Time) PCつくりたくなってきた．なお予算はない．
