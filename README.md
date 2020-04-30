@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Apr 30 2020 23:48:31 GMT+0000 (Coordinated Universal Time) 胃腸の活動自粛はなかなかしんどかったので初見のキノコはしばらく控えます🍄（某キャン○ョの人物とは一切関係ありません）
+
 - Wed Apr 29 2020 13:33:17 GMT+0000 (Coordinated Universal Time) olタグにtypeが指定できたのか．．．（今更）ローマ数字がいい中二感．
 
 - Wed Apr 29 2020 12:33:52 GMT+0000 (Coordinated Universal Time) googleスライドでキーボードが効かなくなったがブラウザ再起動で解決．いつの時代も再起動は基本中の基本．
