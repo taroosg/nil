@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri May 01 2020 21:18:35 GMT+0000 (Coordinated Universal Time) やっぱ配列って強力だなあ．．．
+
 - Thu Apr 30 2020 23:48:31 GMT+0000 (Coordinated Universal Time) 胃腸の活動自粛はなかなかしんどかったので初見のキノコはしばらく控えます🍄（某キャン○ョの人物とは一切関係ありません）
 
 - Wed Apr 29 2020 13:33:17 GMT+0000 (Coordinated Universal Time) olタグにtypeが指定できたのか．．．（今更）ローマ数字がいい中二感．
