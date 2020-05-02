@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat May 02 2020 22:56:45 GMT+0000 (Coordinated Universal Time) 環境構築（物理）はとても大事．．．自分をネガティブにするものを置かないのが良さげ．
+
 - Fri May 01 2020 21:18:35 GMT+0000 (Coordinated Universal Time) やっぱ配列って強力だなあ．．．
 
 - Thu Apr 30 2020 23:48:31 GMT+0000 (Coordinated Universal Time) 胃腸の活動自粛はなかなかしんどかったので初見のキノコはしばらく控えます🍄（某キャン○ョの人物とは一切関係ありません）
