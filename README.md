@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun May 03 2020 21:47:53 GMT+0000 (Coordinated Universal Time) falseと文字列のfalseを取り違えて数十分を溶かす⏳
+
 - Sun May 03 2020 21:15:26 GMT+0000 (Coordinated Universal Time) node.jsでのcloud firestore操作は毎回サービスアカウント周りの設定をし忘れて怒られている気がする．
 
 - Sat May 02 2020 22:56:45 GMT+0000 (Coordinated Universal Time) 環境構築（物理）はとても大事．．．自分をネガティブにするものを置かないのが良さげ．
