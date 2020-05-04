@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon May 04 2020 23:41:24 GMT+0000 (Coordinated Universal Time) twitterのCard validatorが結構運ゲー．何回か試しているとできることも多い．
+
 - Sun May 03 2020 21:47:53 GMT+0000 (Coordinated Universal Time) falseと文字列のfalseを取り違えて数十分を溶かす⏳
 
 - Sun May 03 2020 21:15:26 GMT+0000 (Coordinated Universal Time) node.jsでのcloud firestore操作は毎回サービスアカウント周りの設定をし忘れて怒られている気がする．
