@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed May 06 2020 22:59:45 GMT+0000 (Coordinated Universal Time) 正規表現の文字列複数条件検索は`/.*(hoge|fuga).*/`でいけた．まあまあ使いそう．
+
 - Mon May 04 2020 23:41:24 GMT+0000 (Coordinated Universal Time) twitterのCard validatorが結構運ゲー．何回か試しているとできることも多い．
 
 - Sun May 03 2020 21:47:53 GMT+0000 (Coordinated Universal Time) falseと文字列のfalseを取り違えて数十分を溶かす⏳
