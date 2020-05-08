@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri May 08 2020 23:12:07 GMT+0000 (Coordinated Universal Time) 感情：組み込み関数思考：ユーザ定義関数意識：プログラマって感じに考えるとスッキリした．
+
 - Thu May 07 2020 14:55:26 GMT+0000 (Coordinated Universal Time) 細かいことは抜きにして楽しみながらできるというのは強みだなあ．
 
 - Wed May 06 2020 22:59:45 GMT+0000 (Coordinated Universal Time) 正規表現の文字列複数条件検索は`/.*(hoge|fuga).*/`でいけた．まあまあ使いそう．
