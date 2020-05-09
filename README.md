@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat May 09 2020 23:28:31 GMT+0000 (Coordinated Universal Time) コード書いているとうまくいかないことが多いから，メンタルのコントロールが大事．やり始めて最初の頃は特に．
+
 - Fri May 08 2020 23:12:07 GMT+0000 (Coordinated Universal Time) 感情：組み込み関数思考：ユーザ定義関数意識：プログラマって感じに考えるとスッキリした．
 
 - Thu May 07 2020 14:55:26 GMT+0000 (Coordinated Universal Time) 細かいことは抜きにして楽しみながらできるというのは強みだなあ．
