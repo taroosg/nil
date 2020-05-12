@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue May 12 2020 23:49:37 GMT+0000 (Coordinated Universal Time) アウトプット重要というのはそのとおりだけどインプットを軽視して良いわけではない．
+
 - Tue May 12 2020 23:49:33 GMT+0000 (Coordinated Universal Time) アウトプットするにはその数倍のインプットが必要なんだよな．．．
 
 - Sun May 10 2020 00:34:19 GMT+0000 (Coordinated Universal Time) ホスト名変わったのに環境変数変えてないというミスをかまして数十分を溶かす．
