@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed May 20 2020 23:29:03 GMT+0000 (Coordinated Universal Time) bestを求めても仕方ないので，betterを積み重ねていくスタイル．おいしいミルフィーユが食べたい．
+
 - Wed May 20 2020 23:25:29 GMT+0000 (Coordinated Universal Time) なにか書く度に新しい発見があるのがプログラミングの楽しいところ👾
 
 - Tue May 12 2020 23:49:37 GMT+0000 (Coordinated Universal Time) アウトプット重要というのはそのとおりだけどインプットを軽視して良いわけではない．
