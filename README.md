@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu May 21 2020 15:24:50 GMT+0000 (Coordinated Universal Time) 講座の資料つくったらまずは自分で動作検証💻
+
 - Wed May 20 2020 23:29:03 GMT+0000 (Coordinated Universal Time) bestを求めても仕方ないので，betterを積み重ねていくスタイル．おいしいミルフィーユが食べたい．
 
 - Wed May 20 2020 23:25:29 GMT+0000 (Coordinated Universal Time) なにか書く度に新しい発見があるのがプログラミングの楽しいところ👾
