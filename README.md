@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue May 26 2020 23:18:23 GMT+0000 (Coordinated Universal Time) わからなくても前へ進めるかどうかは自分を信じられるかどうか．
+
 - Fri May 22 2020 22:58:37 GMT+0000 (Coordinated Universal Time) 作業場の照明は大事だな．．．💡適度に明るいと目にも優しい💻
 
 - Thu May 21 2020 15:24:50 GMT+0000 (Coordinated Universal Time) 講座の資料つくったらまずは自分で動作検証💻
