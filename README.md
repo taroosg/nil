@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu May 28 2020 18:34:33 GMT+0000 (Coordinated Universal Time) JSでfirestoreからデータ取るとき，タブがアクティブでないとオフライン扱いになるのか．．．
+
 - Tue May 26 2020 23:18:23 GMT+0000 (Coordinated Universal Time) わからなくても前へ進めるかどうかは自分を信じられるかどうか．
 
 - Fri May 22 2020 22:58:37 GMT+0000 (Coordinated Universal Time) 作業場の照明は大事だな．．．💡適度に明るいと目にも優しい💻
