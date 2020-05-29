@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri May 29 2020 16:35:52 GMT+0000 (Coordinated Universal Time) プログラミングやってて感じるのは，正しいものを求めるよりも何を正しいとするのかを自分で決めるほうが大事かなあ．
+
 - Thu May 28 2020 18:34:33 GMT+0000 (Coordinated Universal Time) JSでfirestoreからデータ取るとき，タブがアクティブでないとオフライン扱いになるのか．．．
 
 - Tue May 26 2020 23:18:23 GMT+0000 (Coordinated Universal Time) わからなくても前へ進めるかどうかは自分を信じられるかどうか．
