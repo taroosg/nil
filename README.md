@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Jun 02 2020 20:29:58 GMT+0000 (Coordinated Universal Time) Netlifyデプロイでtwitterカードを設定するときはPrerenderingを有効にしておく必要があったッ！
+
 - Sun May 31 2020 23:55:34 GMT+0000 (Coordinated Universal Time) 分割代入使うと見通しが良いな( `･ω･)
 
 - Fri May 29 2020 16:35:52 GMT+0000 (Coordinated Universal Time) プログラミングやってて感じるのは，正しいものを求めるよりも何を正しいとするのかを自分で決めるほうが大事かなあ．
