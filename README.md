@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jun 03 2020 22:19:56 GMT+0000 (Coordinated Universal Time) もはや何度目かわからない`Target`と`currentTarget`の混同．
+
 - Tue Jun 02 2020 20:29:58 GMT+0000 (Coordinated Universal Time) Netlifyデプロイでtwitterカードを設定するときはPrerenderingを有効にしておく必要があったッ！
 
 - Sun May 31 2020 23:55:34 GMT+0000 (Coordinated Universal Time) 分割代入使うと見通しが良いな( `･ω･)
