@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Jun 15 2020 21:51:55 GMT+0000 (Coordinated Universal Time) 是非総の3行でまとめると良い練習になりそう
+
 - Sat Jun 06 2020 23:37:18 GMT+0000 (Coordinated Universal Time) 昼食はなくてもなんとかなる．食べないと眠くなるタイミングがないのである意味快適かも．
 
 - Fri Jun 05 2020 17:11:20 GMT+0000 (Coordinated Universal Time) コード書くときは「自分が意図したとおりに動いているか」をこまめに確認しながら進めるのが大事！
