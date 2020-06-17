@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jun 17 2020 14:43:41 GMT+0000 (Coordinated Universal Time) 一万年と二千年ぶりくらいにcss書いてる
+
 - Mon Jun 15 2020 21:51:55 GMT+0000 (Coordinated Universal Time) 是非総の3行でまとめると良い練習になりそう
 
 - Sat Jun 06 2020 23:37:18 GMT+0000 (Coordinated Universal Time) 昼食はなくてもなんとかなる．食べないと眠くなるタイミングがないのである意味快適かも．
