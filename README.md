@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jun 17 2020 17:21:03 GMT+0000 (Coordinated Universal Time) またサンプルコードに凝り始めてる．．．結局ボリュームオーバーで削るんだよなあ．．．
+
 - Wed Jun 17 2020 14:43:41 GMT+0000 (Coordinated Universal Time) 一万年と二千年ぶりくらいにcss書いてる
 
 - Mon Jun 15 2020 21:51:55 GMT+0000 (Coordinated Universal Time) 是非総の3行でまとめると良い練習になりそう
