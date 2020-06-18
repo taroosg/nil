@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Jun 18 2020 15:47:02 GMT+0000 (Coordinated Universal Time) 読みたい本が出てくるけど積ん読が減らないのでタイムマネジメントを見直す．．．
+
 - Wed Jun 17 2020 17:21:03 GMT+0000 (Coordinated Universal Time) またサンプルコードに凝り始めてる．．．結局ボリュームオーバーで削るんだよなあ．．．
 
 - Wed Jun 17 2020 14:43:41 GMT+0000 (Coordinated Universal Time) 一万年と二千年ぶりくらいにcss書いてる
