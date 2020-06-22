@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Jun 22 2020 23:21:02 GMT+0000 (Coordinated Universal Time) やはりイメトレは大事だった．あらゆるケースを想定しておけばだいたい大丈夫👾
+
 - Sat Jun 20 2020 19:35:58 GMT+0000 (Coordinated Universal Time) cssのbackdrop-filterがなかなか便利！
 
 - Thu Jun 18 2020 15:47:02 GMT+0000 (Coordinated Universal Time) 読みたい本が出てくるけど積ん読が減らないのでタイムマネジメントを見直す．．．
