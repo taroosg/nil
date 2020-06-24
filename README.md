@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jun 24 2020 20:10:26 GMT+0000 (Coordinated Universal Time) なにかに取り組むときは「質より量」派です．「質の議論」は「単位時間あたりの量をどのようにして増やすか」な気がする．
+
 - Mon Jun 22 2020 23:21:02 GMT+0000 (Coordinated Universal Time) やはりイメトレは大事だった．あらゆるケースを想定しておけばだいたい大丈夫👾
 
 - Sat Jun 20 2020 19:35:58 GMT+0000 (Coordinated Universal Time) cssのbackdrop-filterがなかなか便利！
