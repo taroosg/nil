@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jun 26 2020 23:12:23 GMT+0000 (Coordinated Universal Time) 「お疲れさまです」より「おつかれさまです」が好き．
+
 - Thu Jun 25 2020 23:57:56 GMT+0000 (Coordinated Universal Time) 最初から全部やるのはなかなかに無理な話なので，できるところからしっかり結果出すのが大事ですな．
 
 - Wed Jun 24 2020 20:10:26 GMT+0000 (Coordinated Universal Time) なにかに取り組むときは「質より量」派です．「質の議論」は「単位時間あたりの量をどのようにして増やすか」な気がする．
