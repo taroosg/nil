@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Jun 28 2020 01:15:56 GMT+0000 (Coordinated Universal Time) 普段無意識にやっていることを説明するのはなかなかに難しいな．
+
 - Fri Jun 26 2020 23:12:23 GMT+0000 (Coordinated Universal Time) 「お疲れさまです」より「おつかれさまです」が好き．
 
 - Thu Jun 25 2020 23:57:56 GMT+0000 (Coordinated Universal Time) 最初から全部やるのはなかなかに無理な話なので，できるところからしっかり結果出すのが大事ですな．
