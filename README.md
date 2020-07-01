@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jul 01 2020 23:01:22 GMT+0000 (Coordinated Universal Time) やはり三項演算子はつよい．
+
 - Mon Jun 29 2020 20:48:08 GMT+0000 (Coordinated Universal Time) Notion blog試したけど結局ブログのファイル管理が不透明で廃案．vs codeからのgit pushが今のところ一番良い．
 
 - Sun Jun 28 2020 01:15:56 GMT+0000 (Coordinated Universal Time) 普段無意識にやっていることを説明するのはなかなかに難しいな．
