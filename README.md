@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Jul 05 2020 23:18:45 GMT+0000 (Coordinated Universal Time) GoogleスライドはURLの後ろに`mobilepresent`をつけるとスライドショー的な感じで共有できるという知見を得た．
+
 - Wed Jul 01 2020 23:01:22 GMT+0000 (Coordinated Universal Time) やはり三項演算子はつよい．
 
 - Mon Jun 29 2020 20:48:08 GMT+0000 (Coordinated Universal Time) Notion blog試したけど結局ブログのファイル管理が不透明で廃案．vs codeからのgit pushが今のところ一番良い．
