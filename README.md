@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Jul 14 2020 00:03:00 GMT+0000 (Coordinated Universal Time) こういうこともあるhttps://togetter.com/li/998874
+
 - Mon Jul 13 2020 18:08:55 GMT+0000 (Coordinated Universal Time) HDD故障を突き止めるまでの流れは全人類が見て損はない．https://togetter.com/li/1330059
 
 - Thu Jul 09 2020 18:15:23 GMT+0000 (Coordinated Universal Time) コントローラとサービスで責務分けてるからサービスいじるだけだなよゆーよゆー
