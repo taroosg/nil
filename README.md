@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Jul 13 2020 18:08:55 GMT+0000 (Coordinated Universal Time) HDD故障を突き止めるまでの流れは全人類が見て損はない．https://togetter.com/li/1330059
+
 - Thu Jul 09 2020 18:15:23 GMT+0000 (Coordinated Universal Time) コントローラとサービスで責務分けてるからサービスいじるだけだなよゆーよゆー
 
 - Sun Jul 05 2020 23:18:45 GMT+0000 (Coordinated Universal Time) GoogleスライドはURLの後ろに`mobilepresent`をつけるとスライドショー的な感じで共有できるという知見を得た．
