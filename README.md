@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Jul 16 2020 00:37:14 GMT+0000 (Coordinated Universal Time) 一通り実装できたけどサンプルコードにしてはやりすぎた気がするので自戒．
+
 - Wed Jul 15 2020 23:34:13 GMT+0000 (Coordinated Universal Time) またstringのtrueとbooleanのtrueでハマった．基本文字列でやり取りして適宜変換が無難かな．
 
 - Tue Jul 14 2020 00:03:00 GMT+0000 (Coordinated Universal Time) こういうこともあるhttps://togetter.com/li/998874
