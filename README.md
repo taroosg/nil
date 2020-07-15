@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jul 15 2020 23:34:13 GMT+0000 (Coordinated Universal Time) またstringのtrueとbooleanのtrueでハマった．基本文字列でやり取りして適宜変換が無難かな．
+
 - Tue Jul 14 2020 00:03:00 GMT+0000 (Coordinated Universal Time) こういうこともあるhttps://togetter.com/li/998874
 
 - Mon Jul 13 2020 18:08:55 GMT+0000 (Coordinated Universal Time) HDD故障を突き止めるまでの流れは全人類が見て損はない．https://togetter.com/li/1330059
