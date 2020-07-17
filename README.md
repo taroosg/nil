@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jul 17 2020 19:10:12 GMT+0000 (Coordinated Universal Time) リモート会議のBGMにネコの声を入れるというライフハック(ΦωΦ)
+
 - Thu Jul 16 2020 00:37:14 GMT+0000 (Coordinated Universal Time) 一通り実装できたけどサンプルコードにしてはやりすぎた気がするので自戒．
 
 - Wed Jul 15 2020 23:34:13 GMT+0000 (Coordinated Universal Time) またstringのtrueとbooleanのtrueでハマった．基本文字列でやり取りして適宜変換が無難かな．
