@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Jul 20 2020 23:58:25 GMT+0000 (Coordinated Universal Time) 航空券は公式が一番．
+
 - Fri Jul 17 2020 19:10:12 GMT+0000 (Coordinated Universal Time) リモート会議のBGMにネコの声を入れるというライフハック(ΦωΦ)
 
 - Thu Jul 16 2020 00:37:14 GMT+0000 (Coordinated Universal Time) 一通り実装できたけどサンプルコードにしてはやりすぎた気がするので自戒．
