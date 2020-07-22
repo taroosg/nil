@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Jul 22 2020 23:55:35 GMT+0000 (Coordinated Universal Time) LINE botよりDiscord botのほうがいいな
+
 - Mon Jul 20 2020 23:58:25 GMT+0000 (Coordinated Universal Time) 航空券は公式が一番．
 
 - Fri Jul 17 2020 19:10:12 GMT+0000 (Coordinated Universal Time) リモート会議のBGMにネコの声を入れるというライフハック(ΦωΦ)
