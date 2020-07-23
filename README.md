@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Jul 23 2020 22:17:16 GMT+0000 (Coordinated Universal Time) ネコの画像を返すdiscord Botをつくったけどtwitterから拾ってるせいかネコの確率が7割くらい．．．
+
 - Wed Jul 22 2020 23:55:35 GMT+0000 (Coordinated Universal Time) LINE botよりDiscord botのほうがいいな
 
 - Mon Jul 20 2020 23:58:25 GMT+0000 (Coordinated Universal Time) 航空券は公式が一番．
