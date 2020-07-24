@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Jul 24 2020 13:08:43 GMT+0000 (Coordinated Universal Time) discord Botは永続起動させたいのでHerokuが相性よかった．
+
 - Thu Jul 23 2020 22:17:16 GMT+0000 (Coordinated Universal Time) ネコの画像を返すdiscord Botをつくったけどtwitterから拾ってるせいかネコの確率が7割くらい．．．
 
 - Wed Jul 22 2020 23:55:35 GMT+0000 (Coordinated Universal Time) LINE botよりDiscord botのほうがいいな
