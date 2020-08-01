@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Aug 01 2020 23:04:57 GMT+0000 (Coordinated Universal Time) うまくいくパターンと確実にうまくいくパターンを用意しておいた自分を褒めたい．
+
 - Tue Jul 28 2020 11:40:29 GMT+0000 (Coordinated Universal Time) 初めての技術に挑戦するときは複数同時にやるとわけわからなくなる．触れたことのない技術は一つだけにしておいたほうが無難．
 
 - Fri Jul 24 2020 13:08:43 GMT+0000 (Coordinated Universal Time) discord Botは永続起動させたいのでHerokuが相性よかった．
