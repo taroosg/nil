@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Aug 06 2020 23:54:14 GMT+0000 (Coordinated Universal Time) コロナの影響で対人活動が減っているから，個人のメンタルコントロールスキルがより重要になっている気がする．
+
 - Sat Aug 01 2020 23:04:57 GMT+0000 (Coordinated Universal Time) うまくいくパターンと確実にうまくいくパターンを用意しておいた自分を褒めたい．
 
 - Tue Jul 28 2020 11:40:29 GMT+0000 (Coordinated Universal Time) 初めての技術に挑戦するときは複数同時にやるとわけわからなくなる．触れたことのない技術は一つだけにしておいたほうが無難．
