@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Aug 13 2020 22:33:34 GMT+0000 (Coordinated Universal Time) おいしいカフェオレをつくるにはおいしい牛乳を使うのが手っ取り早い☕️🥛
+
 - Thu Aug 06 2020 23:54:14 GMT+0000 (Coordinated Universal Time) コロナの影響で対人活動が減っているから，個人のメンタルコントロールスキルがより重要になっている気がする．
 
 - Sat Aug 01 2020 23:04:57 GMT+0000 (Coordinated Universal Time) うまくいくパターンと確実にうまくいくパターンを用意しておいた自分を褒めたい．
