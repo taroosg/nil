@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Tue Aug 25 2020 23:24:10 GMT+0000 (Coordinated Universal Time) 原因を考えるよりも可能性を探るという思考のほうがしっかりくるかも
+
 - Sun Aug 23 2020 22:15:22 GMT+0000 (Coordinated Universal Time) 開発機をthinkpad + ubuntuにしたけどなかなか快適💻キーボードがかなりよくなった
 
 - Thu Aug 20 2020 00:00:26 GMT+0000 (Coordinated Universal Time) PCの設定してると時間が溶ける．．．
