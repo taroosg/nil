@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Aug 27 2020 18:47:35 GMT+0000 (Coordinated Universal Time) 相変わらずJSの時間操作は煩雑だなあ．．．（moment任せ）
+
 - Tue Aug 25 2020 23:24:10 GMT+0000 (Coordinated Universal Time) 原因を考えるよりも可能性を探るという思考のほうがしっかりくるかも
 
 - Sun Aug 23 2020 22:15:22 GMT+0000 (Coordinated Universal Time) 開発機をthinkpad + ubuntuにしたけどなかなか快適💻キーボードがかなりよくなった
