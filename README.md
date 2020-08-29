@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Aug 29 2020 23:34:08 GMT+0000 (Coordinated Universal Time) 白黒グレーでスライド作ったら結構いい感じになってる（当社比）
+
 - Thu Aug 27 2020 18:47:35 GMT+0000 (Coordinated Universal Time) 相変わらずJSの時間操作は煩雑だなあ．．．（moment任せ）
 
 - Tue Aug 25 2020 23:24:10 GMT+0000 (Coordinated Universal Time) 原因を考えるよりも可能性を探るという思考のほうがしっかりくるかも
