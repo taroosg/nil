@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Aug 31 2020 22:08:05 GMT+0000 (Coordinated Universal Time) バス乗車中は読書して運賃分相当のインプットを目指す
+
 - Sat Aug 29 2020 23:34:08 GMT+0000 (Coordinated Universal Time) 白黒グレーでスライド作ったら結構いい感じになってる（当社比）
 
 - Thu Aug 27 2020 18:47:35 GMT+0000 (Coordinated Universal Time) 相変わらずJSの時間操作は煩雑だなあ．．．（moment任せ）
