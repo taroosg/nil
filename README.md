@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Sep 02 2020 23:29:05 GMT+0000 (Coordinated Universal Time) ‪何をするにもできるだけまとまって時間を確保するほうが良いな．‬‪1h程度ではのってきたタイミングで終わることも多い⏳‬
+
 - Tue Sep 01 2020 22:51:34 GMT+0000 (Coordinated Universal Time) 読書に集中する時間は大切だ📚
 
 - Mon Aug 31 2020 22:08:05 GMT+0000 (Coordinated Universal Time) バス乗車中は読書して運賃分相当のインプットを目指す
