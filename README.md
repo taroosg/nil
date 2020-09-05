@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Sep 05 2020 23:39:47 GMT+0000 (Coordinated Universal Time) ないものを求めるよりも，ない状態で楽しめる方法を考えるのが好き．
+
 - Thu Sep 03 2020 23:49:30 GMT+0000 (Coordinated Universal Time) 和室での作業は良い💻リビングより物が少ないからかな
 
 - Wed Sep 02 2020 23:29:05 GMT+0000 (Coordinated Universal Time) ‪何をするにもできるだけまとまって時間を確保するほうが良いな．‬‪1h程度ではのってきたタイミングで終わることも多い⏳‬
