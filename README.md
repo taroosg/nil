@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Sep 09 2020 19:07:07 GMT+0000 (Coordinated Universal Time) Angularやろうかと思ったけどTypeScriptでReact書けるからそっちでいいか．．⚛️
+
 - Tue Sep 08 2020 22:20:03 GMT+0000 (Coordinated Universal Time) 無理にやる気を出すより，やる気がなくても進む作業を準備しておくほうが大事．
 
 - Sun Sep 06 2020 23:55:04 GMT+0000 (Coordinated Universal Time) 人事を尽くして天命を待つスタイル．
