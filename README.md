@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Sep 10 2020 16:53:32 GMT+0000 (Coordinated Universal Time) iCloud同期しているときのDesktopは動作が怪しいので，別の場所にディレクトリを用意したほうが良さげ💻
+
 - Wed Sep 09 2020 19:09:34 GMT+0000 (Coordinated Universal Time) マシンをThinkPadにしてからよくわからんタイプミスが減った．やはりMacBookAirのキーボードが悪かった説．．．
 
 - Wed Sep 09 2020 19:07:07 GMT+0000 (Coordinated Universal Time) Angularやろうかと思ったけどTypeScriptでReact書けるからそっちでいいか．．⚛️
