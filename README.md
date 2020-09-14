@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Sep 14 2020 23:07:35 GMT+0000 (Coordinated Universal Time) やはり読書は良い📚オフの日はいつもと異なる分野のものを読むと発想力や表現力が広がる
+
 - Fri Sep 11 2020 23:07:35 GMT+0000 (Coordinated Universal Time) やっぱり何かプロダクト作るのが一番知識が定着するな💻
 
 - Thu Sep 10 2020 16:53:32 GMT+0000 (Coordinated Universal Time) iCloud同期しているときのDesktopは動作が怪しいので，別の場所にディレクトリを用意したほうが良さげ💻
