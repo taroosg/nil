@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Sep 16 2020 23:05:14 GMT+0000 (Coordinated Universal Time) 彼を知り己を知れば百戦危うからず己を知るのはなかなか難しいそして百戦百勝である必要は全くない
+
 - Tue Sep 15 2020 16:46:08 GMT+0000 (Coordinated Universal Time) トイレットペーパーの長さは直径の2次関数になる．後半に減りが早く感じるのはそういう理由だったか．
 
 - Mon Sep 14 2020 23:07:35 GMT+0000 (Coordinated Universal Time) やはり読書は良い📚オフの日はいつもと異なる分野のものを読むと発想力や表現力が広がる
