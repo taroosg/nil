@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Sep 21 2020 23:25:42 GMT+0000 (Coordinated Universal Time) 成長したいという欲求は理解できるが，その目標や成長という言葉自体の定義については議論の余地があると思ふ
+
 - Sun Sep 20 2020 23:45:28 GMT+0000 (Coordinated Universal Time) 行き詰まったら作業場所を変えるのが有効🏠🏢🏕⛰🏝
 
 - Sat Sep 19 2020 13:12:35 GMT+0000 (Coordinated Universal Time) やはり朝は食べないほうが調子が良い．
