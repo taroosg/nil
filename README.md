@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Sep 23 2020 22:59:17 GMT+0000 (Coordinated Universal Time) 理想の自分をイメージするというのはなかなか良い．イメージすらできないことは実現するわけなし．
+
 - Tue Sep 22 2020 23:27:51 GMT+0000 (Coordinated Universal Time) 必要ないものは持ちたくないが，必要な持ち物には拘りたい派📱💻👕👜
 
 - Mon Sep 21 2020 23:25:42 GMT+0000 (Coordinated Universal Time) 成長したいという欲求は理解できるが，その目標や成長という言葉自体の定義については議論の余地があると思ふ
