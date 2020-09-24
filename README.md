@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Sep 24 2020 22:27:03 GMT+0000 (Coordinated Universal Time) 新しめの言語やフレームワークはエラーメッセージが親切で助かる(*´ω｀*)
+
 - Wed Sep 23 2020 22:59:17 GMT+0000 (Coordinated Universal Time) 理想の自分をイメージするというのはなかなか良い．イメージすらできないことは実現するわけなし．
 
 - Tue Sep 22 2020 23:27:51 GMT+0000 (Coordinated Universal Time) 必要ないものは持ちたくないが，必要な持ち物には拘りたい派📱💻👕👜
