@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Sep 30 2020 17:55:07 GMT+0000 (Coordinated Universal Time) 画面の設計に唯一無二の正解はないわけで，「誰が」「どういう場面で」「どうやって」使うかを考えればbetterな選択肢を選べそう．
+
 - Thu Sep 24 2020 22:27:03 GMT+0000 (Coordinated Universal Time) 新しめの言語やフレームワークはエラーメッセージが親切で助かる(*´ω｀*)
 
 - Wed Sep 23 2020 22:59:17 GMT+0000 (Coordinated Universal Time) 理想の自分をイメージするというのはなかなか良い．イメージすらできないことは実現するわけなし．
