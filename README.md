@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Oct 02 2020 23:22:53 GMT+0000 (Coordinated Universal Time) ないものを嘆くよりも，ないなりに楽しむ方法を考えるほうが先へ繋がる．
+
 - Thu Oct 01 2020 23:44:19 GMT+0000 (Coordinated Universal Time) しばらく試してみてダメそうなら他のやり方を探す方が早い場合が多い．
 
 - Wed Sep 30 2020 17:55:07 GMT+0000 (Coordinated Universal Time) 画面の設計に唯一無二の正解はないわけで，「誰が」「どういう場面で」「どうやって」使うかを考えればbetterな選択肢を選べそう．
