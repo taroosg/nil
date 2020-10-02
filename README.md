@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Oct 02 2020 23:23:55 GMT+0000 (Coordinated Universal Time) マイナスな出来事も考えようによってはプラスになる．
+
 - Fri Oct 02 2020 23:22:53 GMT+0000 (Coordinated Universal Time) ないものを嘆くよりも，ないなりに楽しむ方法を考えるほうが先へ繋がる．
 
 - Thu Oct 01 2020 23:44:19 GMT+0000 (Coordinated Universal Time) しばらく試してみてダメそうなら他のやり方を探す方が早い場合が多い．
