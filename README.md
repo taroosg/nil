@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Oct 03 2020 07:58:18 GMT+0000 (Coordinated Universal Time) センスは経験値．たくさんの経験値の中から最適解を選定する精度．
+
 - Fri Oct 02 2020 23:23:55 GMT+0000 (Coordinated Universal Time) マイナスな出来事も考えようによってはプラスになる．
 
 - Fri Oct 02 2020 23:22:53 GMT+0000 (Coordinated Universal Time) ないものを嘆くよりも，ないなりに楽しむ方法を考えるほうが先へ繋がる．
