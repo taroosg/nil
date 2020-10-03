@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Oct 03 2020 17:34:55 GMT+0000 (Coordinated Universal Time) 別々の事柄でも，経験の中から共通点を持つものを探してくると解決に近づく．
+
 - Sat Oct 03 2020 07:58:18 GMT+0000 (Coordinated Universal Time) センスは経験値．たくさんの経験値の中から最適解を選定する精度．
 
 - Fri Oct 02 2020 23:23:55 GMT+0000 (Coordinated Universal Time) マイナスな出来事も考えようによってはプラスになる．
