@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sun Oct 04 2020 23:34:46 GMT+0000 (Coordinated Universal Time) うまくいかないときは呼吸に集中する．丁寧に一定のリズムで呼吸し，息を吐き切るのがコツ．
+
 - Sat Oct 03 2020 17:34:55 GMT+0000 (Coordinated Universal Time) 別々の事柄でも，経験の中から共通点を持つものを探してくると解決に近づく．
 
 - Sat Oct 03 2020 07:58:18 GMT+0000 (Coordinated Universal Time) センスは経験値．たくさんの経験値の中から最適解を選定する精度．
