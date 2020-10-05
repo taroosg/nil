@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Oct 05 2020 21:34:02 GMT+0000 (Coordinated Universal Time) なにかを始めようか悩んでいるなら，とりあえず今始めれば良い．もし合っていなければやめればよいだけ．
+
 - Sun Oct 04 2020 23:34:46 GMT+0000 (Coordinated Universal Time) うまくいかないときは呼吸に集中する．丁寧に一定のリズムで呼吸し，息を吐き切るのがコツ．
 
 - Sat Oct 03 2020 17:34:55 GMT+0000 (Coordinated Universal Time) 別々の事柄でも，経験の中から共通点を持つものを探してくると解決に近づく．
