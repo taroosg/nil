@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Oct 08 2020 22:19:03 GMT+0000 (Coordinated Universal Time) 食べたいものを食べるのは大事だ．メンタルに余計な我慢を強いるのは良くない🍺
+
 - Tue Oct 06 2020 23:58:38 GMT+0000 (Coordinated Universal Time) 疲れて寝るときのコツは他の全てを捨てて全力で寝ること
 
 - Tue Oct 06 2020 23:57:51 GMT+0000 (Coordinated Universal Time) ダメな日は割り切ってさっさと寝る🛏ちなみに今日はダメではない．
