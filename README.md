@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Fri Oct 09 2020 15:24:21 GMT+0000 (Coordinated Universal Time) Codespacesかなり良い．完全にブラウザで動作するvs code．
+
 - Thu Oct 08 2020 22:19:47 GMT+0000 (Coordinated Universal Time) ただし食べたい「気がする」だけの場合も多い．
 
 - Thu Oct 08 2020 22:19:03 GMT+0000 (Coordinated Universal Time) 食べたいものを食べるのは大事だ．メンタルに余計な我慢を強いるのは良くない🍺
