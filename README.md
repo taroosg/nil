@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Oct 12 2020 23:06:24 GMT+0000 (Coordinated Universal Time) 自分を変えるためには行動して終わりではない．行動の結果を観測（認識）して初めて変化することができる．
+
 - Fri Oct 09 2020 15:25:32 GMT+0000 (Coordinated Universal Time) そしてvs codeでgithubアカウントにサインインしておけば設定もそのまま適用されて全く同じ環境でコード書ける．
 
 - Fri Oct 09 2020 15:24:21 GMT+0000 (Coordinated Universal Time) Codespacesかなり良い．完全にブラウザで動作するvs code．
