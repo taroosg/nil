@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Oct 17 2020 13:22:37 GMT+0000 (Coordinated Universal Time) いろいろなものをうまく配列にして処理できると気分が良いな．
+
 - Mon Oct 12 2020 23:06:24 GMT+0000 (Coordinated Universal Time) 自分を変えるためには行動して終わりではない．行動の結果を観測（認識）して初めて変化することができる．
 
 - Fri Oct 09 2020 15:25:32 GMT+0000 (Coordinated Universal Time) そしてvs codeでgithubアカウントにサインインしておけば設定もそのまま適用されて全く同じ環境でコード書ける．
