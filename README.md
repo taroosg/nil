@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Thu Nov 05 2020 14:31:18 GMT+0000 (Coordinated Universal Time) ワイテーブル修正中，怒りのschema:drop
+
 - Wed Nov 04 2020 22:12:54 GMT+0000 (Coordinated Universal Time) labelつけてないチェックボックス実装するやつはなんなんだ．．．
 
 - Tue Oct 27 2020 18:10:26 GMT+0000 (Coordinated Universal Time) 雑にメモれるメモ帳がほしいんだが，Draft.jsというのが良さそうだな．．．
