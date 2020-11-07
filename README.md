@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Nov 07 2020 11:06:19 GMT+0000 (Coordinated Universal Time) 開発マシンをLinuxにしてから初めてdocker使ってるけど軽くて快適だな☕
+
 - Thu Nov 05 2020 14:31:18 GMT+0000 (Coordinated Universal Time) ワイテーブル修正中，怒りのschema:drop
 
 - Wed Nov 04 2020 22:12:54 GMT+0000 (Coordinated Universal Time) labelつけてないチェックボックス実装するやつはなんなんだ．．．
