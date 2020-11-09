@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Mon Nov 09 2020 23:10:43 GMT+0000 (Coordinated Universal Time) サーバー側はだいたいいけたので明日からフロントに移行じゃ
+
 - Sun Nov 08 2020 22:46:07 GMT+0000 (Coordinated Universal Time) 数ヶ月前からの問題が解決した．やはり環境変数は最強だ( `･ω･)
 
 - Sat Nov 07 2020 11:06:19 GMT+0000 (Coordinated Universal Time) 開発マシンをLinuxにしてから初めてdocker使ってるけど軽くて快適だな☕
