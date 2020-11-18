@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Wed Nov 18 2020 12:12:19 GMT+0000 (Coordinated Universal Time) JS書いてると「ここTSなら安全な関数作れるのに」ってなって楽しい．
+
 - Mon Nov 09 2020 23:10:43 GMT+0000 (Coordinated Universal Time) サーバー側はだいたいいけたので明日からフロントに移行じゃ
 
 - Sun Nov 08 2020 22:46:07 GMT+0000 (Coordinated Universal Time) 数ヶ月前からの問題が解決した．やはり環境変数は最強だ( `･ω･)
