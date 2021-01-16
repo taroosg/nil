@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Jan 16 2021 19:53:12 GMT+0000 (Coordinated Universal Time) 監視システムに新たな一手を加えられるな
+
 - Sat Jan 16 2021 19:39:41 GMT+0000 (Coordinated Universal Time) 共通のチャンネルでみんなのpush状況見られるからおもしろいなw
 
 - Sat Jan 16 2021 19:27:24 GMT+0000 (Coordinated Universal Time) 複数のワークスペースにも投げられるな
