@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Jan 16 2021 19:39:41 GMT+0000 (Coordinated Universal Time) 共通のチャンネルでみんなのpush状況見られるからおもしろいなw
+
 - Sat Jan 16 2021 19:27:24 GMT+0000 (Coordinated Universal Time) 複数のワークスペースにも投げられるな
 
 - Sat Jan 16 2021 19:17:51 GMT+0000 (Coordinated Universal Time) Githubのpushをslackに投げるのは思ったより簡単だった
