@@ -1,5 +1,7 @@
 # nil
 ## Now, I learned
+- Sat Jan 16 2021 19:17:51 GMT+0000 (Coordinated Universal Time) Githubのpushをslackに投げるのは思ったより簡単だった
+
 - Wed Nov 18 2020 12:12:19 GMT+0000 (Coordinated Universal Time) JS書いてると「ここTSなら安全な関数作れるのに」ってなって楽しい．
 
 - Mon Nov 09 2020 23:10:43 GMT+0000 (Coordinated Universal Time) サーバー側はだいたいいけたので明日からフロントに移行じゃ
